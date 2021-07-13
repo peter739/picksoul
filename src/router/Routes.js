@@ -11,10 +11,27 @@ const LoadableHome = React.lazy(() =>
 );
 const Home = () => <LoadableHome />;
 
-const LoadableAbout = React.lazy(() =>
-  import(/* webpackChunkName:"about" */ '../pages/About'),
+
+const LoadableProcess = React.lazy(() =>
+  import(/* webpackChunkName:"Process" */ '../pages/Process'),
 );
-const About = () => <LoadableAbout />;
+const Process = () => <LoadableProcess />;
+
+
+const LoadableCasestudies = React.lazy(() =>
+  import(/* webpackChunkName:"Casestudies" */ '../pages/Casestudies'),
+);
+const Casestudies = () => <LoadableCasestudies />;
+
+const LoadableResume = React.lazy(() =>
+  import(/* webpackChunkName:"Resume" */ '../pages/Resume'),
+);
+const Resume = () => <LoadableResume />;
+
+const LoadableContact = React.lazy(() =>
+  import(/* webpackChunkName:"Contact" */ '../pages/Contact'),
+);
+const Contact = () => <LoadableContact />;
 
 // animated route configuration
 const Routes = () => {
@@ -32,8 +49,17 @@ const Routes = () => {
           <Route exact path="/">
             <Home />
           </Route>
-          <Route path="/about">
-            <About />
+          <Route path="/Process">
+            <Process />
+          </Route>
+          <Route path="/Casestudies">
+            <Casestudies />
+          </Route>
+          <Route path="/Resume">
+            <Resume />
+          </Route>
+          <Route path="/Contact">
+            <Contact />
           </Route>
         </Switch>
       </React.Suspense>

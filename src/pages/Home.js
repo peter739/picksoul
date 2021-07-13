@@ -1,21 +1,47 @@
 import React from 'react';
+import Jumbotron from 'react-bootstrap/Jumbotron';
+import Container from 'react-bootstrap/Container';
+import Col from 'react-bootstrap/Col';
+import Button from 'react-bootstrap/Button';
+import Row from 'react-bootstrap/Row';
+import Image from 'react-bootstrap/Image';
+import Picksoul_cereal from '../images/home_img/cereal.png';
+import '../picksoul_custom.scss';
+import Home_heart_and_banner from '../images/home_img/home_heart_and_banner.svg';
 
 const Home = () => {
   return (
-    <section>
-      <h2>CRA-Animated-Routes</h2>
-      <p>
-        Edit <code>src/pages/Home.js</code> and save to reload.
-      </p>
-      <a
-        className="App-link"
-        href="https://reactjs.org"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Learn React
-      </a>
-    </section>
+        <Container>
+          <Row justify-content-center>
+              <Col xs={12} md={12}>
+                <div class="home_page_title">Peter Birlem</div>
+              </Col>
+          </Row>
+          <Row>
+            <Col xs={12} md={12}>
+              <div class="ps_title_text">Product Design & Development</div>
+            </Col>
+          </Row>
+          <Row>
+            <img class='img' src={Picksoul_cereal} alt='Picksoul Cereal' />
+            <Col xs={12} md={12}>
+                <div class='heart'>
+                <img class='heart img' src={Home_heart_and_banner} alt='Home_heart_and_banner'/>
+              </div>
+            </Col>
+          </Row>
+          <Row>
+            <Col xs={12} md={4}>
+              xs=6 md=4
+            </Col>
+            <Col xs={12} md={4}>
+              xs=6 md=4
+            </Col>
+            <Col xs={12} md={4}>
+              xs=12  md=4
+            </Col>
+          </Row>
+        </Container>
   );
 };
 
