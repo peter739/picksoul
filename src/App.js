@@ -28,11 +28,11 @@ class App extends Component {
 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
 <Navbar.Collapse id="responsive-navbar-nav">
   <Nav className="ml-auto">
-    <Nav.Link href="/">Home</Nav.Link>
-    <Nav.Link href="/Process">Process</Nav.Link>
-    <Nav.Link href="/Casestudies">Case Studies</Nav.Link>
-    <Nav.Link href="/Resume">Resume</Nav.Link>
-    <Nav.Link href="/Contact">Contact</Nav.Link>
+    <Nav.Link href="/"><i class="fas fa-globe-americas fa"></i> Home</Nav.Link>
+    <Nav.Link href="/Process"><i class="fas fa-drafting-compass fa"></i> Process</Nav.Link>
+    <Nav.Link href="/Casestudies"><i class="fas fa-flask fa"></i> Case Studies</Nav.Link>
+    <Nav.Link href="/Resume"><i class="fas fa-wrench fa"></i> Resume</Nav.Link>
+    <Nav.Link href="/Contact"><i class="fas fa-satellite-dish fa"></i> Contact</Nav.Link>
   </Nav>
 </Navbar.Collapse>
 </Navbar>

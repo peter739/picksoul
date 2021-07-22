@@ -1,17 +1,27 @@
 $body-bg: #11c1f3;
 $body-color: #fff;
 $primary: #03596d;
+$ps_light_blue: #11c1f3;
 $ps_dark_blue: #03596d;
 $ps_orange: #EE3325;
 $ps_light_orange: #ffc107;
 $ps_yellow: #FFFF01;
+
+.btn-primary {
+  background: $ps_yellow !important;
+  color: $ps_dark_blue !important;
+}
 
 .modal-title {
   color: $ps_yellow  !important;
 }
 
 .modal-content {
-  background-color: $body-bg !important;
+  background-color: $ps_dark_blue !important;
+}
+
+.modal-backdrop {
+  background-color: $ps_light_blue !important;
 }
 
 .navbar-toggler {
@@ -278,7 +288,7 @@ $ps_yellow: #FFFF01;
 
 .ps_title_text {
   margin-bottom: 16px;
-  font-size: 3rem !important;
+  font-size: 1em;
   color: #ee2f24;
   text-align: center;
   font-family: "Helvetica Neue", "Roboto", "Segoe UI", sans-serif;
@@ -377,7 +387,7 @@ $ps_yellow: #FFFF01;
 }
 
 .ps_yellow {
-  color: #ffff00;
+  color: #ffc107;
 }
 
 .ps_title_logo {
@@ -389,59 +399,59 @@ $ps_yellow: #FFFF01;
 }
 
 .ps_title_text {
-  margin-bottom: 1rem;
-  font-size: 1rem;
+  margin-bottom: 1em;
+  font-size: 1.5em;
   color: yellow;
   text-align: center;
   font-family: "Helvetica Neue", "Roboto", "Segoe UI", sans-serif;
-  line-height: 1.6rem;
+  line-height: 1em;
 }
 
 @media screen and (min-width: 1054px) and (max-width: 1600px) {
   .ps_title_text {
-    font-size: 3rem;
+    font-size: 2.5em;
   }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1053px) {
   .ps_title_text {
-    font-size: 3rem;
+    font-size: 2em;
   }
 }
 
 @media screen and (min-width: 895px) and (max-width: 1023px) {
   .ps_title_text {
-    font-size: 3rem;
+    font-size: 2em;
   }
 }
 
 @media screen and (min-width: 673px) and (max-width: 894px) {
   .ps_title_text {
-    font-size: 2rem;
+    font-size: 2em;
   }
 }
 
 @media screen and (min-width: 503px) and (max-width: 672px) {
   .ps_title_text {
-    font-size: 2rem;
+    font-size: 2em;
   }
 }
 
 
 @media screen and (max-width: 894px) and (min-width: 673px){
 .ps_title_text {
-    font-size: 2rem;
+    font-size: 1.75em;
 }
 }
 @media screen and (max-width: 672px) and (min-width: 503px){
 .ps_title_text {
-    font-size: 1.5rem;
+    font-size: 1.5em;
 }
 }
 
 @media screen and (max-width: 394px) and (min-width: 306px){
 .ps_title_text {
-    font-size: 1.2rem;
+    font-size: .75em;
 }
 }
 .contact_page_title {
@@ -1217,6 +1227,11 @@ max-width:100%;
 height: auto;
 }
 
+.btn-warning {
+    color: $ps_dark_blue!important;
+    background: $ps_yellow!important;
+    border-color: transparent!important;
+}
 
 
 @import '~bootstrap/scss/bootstrap.scss';

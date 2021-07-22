@@ -14,7 +14,7 @@ import ResumeP3 from '../images/resume/PBirlem_Resume_P3.svg';
 const Resume = () => {
   return (
     <section>
-  <Container-Fluid>
+  <Container>
     <Row>
     <Col xs={12} md={12}>
             <img class='img' src={ResumeP1} alt='ResumeP1' />
@@ -30,7 +30,7 @@ const Resume = () => {
             <img class='img' src={ResumeP3} alt='ResumeP3' />
       </Col>
     </Row>
-  </Container-Fluid>
+  </Container>
     </section>
   );
 };

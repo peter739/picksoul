@@ -18,7 +18,7 @@ const Home = () => {
               </Col>
           </Row>
           <Row>
-            <Col xs={12} md={12}>
+            <Col xs={12} >
               <div class="ps_title_text">Product Design & Development</div>
             </Col>
           </Row>

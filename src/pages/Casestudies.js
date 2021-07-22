@@ -7,6 +7,7 @@ import Card from 'react-bootstrap/Card';
 import Modal from 'react-bootstrap/Modal';
 import Lms_img_hero_1 from '../images/case_study_img/lms_checkout/lms_img_hero_1.jpg';
 import Caai_hero from '../images/case_study_img/caai/caai_hero.jpg';
+import Wilde_hero from '../images/case_study_img/wilde/wilde_hero.jpg';
 import '../picksoul_custom.scss';
 
 
@@ -45,9 +46,7 @@ const Casestudies = () => {
                     <Modal.Title>
                       CyberGRX Design System
                     </Modal.Title>
-                    <Button varient='warning' onClick={hideModal}>
-                      Close
-                    </Button>
+                    <Button varient="warning" onClick={hideModal}>Close</Button>
                 </Modal.Header>
                     <Modal.Body>
                       <Card.Img variant="top"   src={Lms_img_hero_1} alt='CyberGRX Design System Hero' />
@@ -59,7 +58,7 @@ const Casestudies = () => {
 
 
         <Card bg="primary" text="white" >
-          <Card.Img variant="top"   src={Lms_img_hero_1} alt='CyberGRX Design System Hero' />
+          <Card.Img variant="top"   src={Wilde_hero} alt='wilde hero' />
         <Card.Body>
           <Card.Title >#4 Wilde Platform Redesign</Card.Title>
           <Card.Text>
@@ -74,13 +73,13 @@ const Casestudies = () => {
                     <Modal.Title>
                       Wilde Platform Redesign
                     </Modal.Title>
-                    <Button varient='primary' onClick={hideModal}>
+                    <Button varient="warning" onClick={hideModal}>
                       Close
                     </Button>
                 </Modal.Header>
 
                     <Modal.Body>
-                      <Card.Img variant="top"   src={Lms_img_hero_1} alt='CyberGRX Design System Hero' />
+                      <Card.Img variant="top"   src={Wilde_hero} alt='Wilde hero' />
                     </Modal.Body>
                 </Modal>
           </Card.Footer>
@@ -102,7 +101,7 @@ const Casestudies = () => {
                   <Modal.Title>
                     Censeo Accoustics Design System
                   </Modal.Title>
-                  <Button varient='primary' onClick={hideModal}>
+                  <Button varient="warning" onClick={hideModal}>
                     Close
                   </Button>
               </Modal.Header>
@@ -129,7 +128,7 @@ const Casestudies = () => {
                   <Modal.Title>
                       HR Rewards UX Design
                   </Modal.Title>
-                  <Button varient='primary' onClick={hideModal}>
+                  <Button varient="warning" onClick={hideModal}>
                     Close
                   </Button>
               </Modal.Header>
@@ -156,7 +155,7 @@ const Casestudies = () => {
                 <Modal.Title>
                   LMS Checkout UX Design
                 </Modal.Title>
-                <Button varient='primary' onClick={hideModal}>
+                <Button varient="warning" onClick={hideModal}>
                   Close
                 </Button>
             </Modal.Header>
@@ -183,12 +182,12 @@ const Casestudies = () => {
               <Modal.Title>
                 Simple Energy RaaS (Rebates As A Service) UX Redesign
               </Modal.Title>
-              <Button varient='warning' onClick={hideModal}>
+              <Button varient="warning" onClick={hideModal}>
                 Close
               </Button>
           </Modal.Header>
               <Modal.Body>
-                <Card.Img variant="top"   src={Lms_img_hero_1} alt='imple Energy RaaS (Rebates As A Service) UX Redesign Hero' />
+                <Card.Img variant="top"   src={Wilde_hero} alt='imple Energy RaaS (Rebates As A Service) UX Redesign Hero' />
               </Modal.Body>
           </Modal>
     </Card.Footer>
