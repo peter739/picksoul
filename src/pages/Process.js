@@ -5,6 +5,7 @@ import Slide1 from '../images/my_process_img/slide1.jpg';
 import Slide2 from '../images/my_process_img/slide2.jpg';
 
 
+
 const Process = () => {
   return (
 

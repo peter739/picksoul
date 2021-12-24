@@ -9,7 +9,6 @@ import Lms_img_hero_1 from '../images/case_study_img/lms_checkout/lms_img_hero_1
 import Caai_hero from '../images/case_study_img/caai/caai_hero.jpg';
 import Wilde_hero from '../images/case_study_img/wilde/wilde_hero.jpg';
 import '../picksoul_custom.scss';
-//this is a code comment
 
 const Casestudies = () => {
   const [isOpen, setIsOpen] = React.useState(false);

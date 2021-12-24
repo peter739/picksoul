@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="612px" height="792px" viewBox="0 0 612 792" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
     <title>PBirlem_Resume_P1</title>
     <desc>Created with Sketch.</desc>
     <g id="PBirlem_Resume_P1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#FFFFFF" x="0" y="0" width="612" height="792"></rect>
-        <g id="picksoul_logo" transform="translate(26.849600, 15.864000)">
+        <g id="picksoul_logo" transform="translate(26.000000, 15.000000)">
             <g id="Group">
                 <path d="M52.272,26.136 C52.272,40.571 40.571,52.272 26.136,52.272 C11.702,52.272 3.55271368e-15,40.571 3.55271368e-15,26.136 C3.55271368e-15,11.701 11.702,0 26.136,0 C40.571,0 52.272,11.701 52.272,26.136" id="Fill-2" fill="#1A1919"></path>
                 <path d="M26.7046,44.1004 C23.5306,44.1004 21.9366,41.8964 21.9366,40.6624 L21.9366,39.7124 L31.3476,39.7124 L31.0096,40.9194 C30.7016,42.0194 29.4046,44.1004 26.7046,44.1004" id="Fill-4" fill="#40403E"></path>
@@ -47,130 +47,134 @@
                 <polygon id="Fill-76" fill="#DA322C" points="29.3877 15.2488 22.8847 21.0818 25.3927 21.0818 22.8847 25.5138 29.3877 19.6818 26.6467 19.6818"></polygon>
             </g>
         </g>
-        <g id="Line_Thicke" transform="translate(21.999900, 75.716700)" fill="#1A1919">
+        <g id="Line_Thicke" transform="translate(21.000000, 75.000000)" fill="#1A1919">
             <polygon id="Fill-78" points="571.255 8.274 0 7.731 0 0 571.255 0.543"></polygon>
         </g>
-        <g id="line_medium" transform="translate(21.999900, 110.851000)" fill="#1A1919">
+        <g id="line_medium" transform="translate(21.000000, 110.000000)" fill="#1A1919">
             <polygon id="Fill-1" points="570.589 4.585 0 4.042 0 0 570.589 0.543"></polygon>
         </g>
-        <polygon id="Fill-83" fill="#1A1919" points="592.5889 192.436 21.9999 191.893 21.9999 187.851 592.5889 188.394"></polygon>
-        <g id="Line_Thin" transform="translate(22.775400, 392.198300)" stroke="#1A1919" stroke-width="0.746">
+        <g id="line_medium" transform="translate(21.000000, 187.000000)" fill="#1A1919">
+            <polygon id="Fill-1" points="570.589 4.585 0 4.042 0 0 570.589 0.543"></polygon>
+        </g>
+        <g id="Line_Thin" transform="translate(22.000000, 391.000000)" stroke="#1A1919" stroke-width="0.746">
             <path d="M0,0.2285 L567.838,0.7715" id="Stroke-91"></path>
         </g>
-        <g id="Line_Thin" transform="translate(22.775400, 575.198300)" stroke="#1A1919" stroke-width="0.746">
+        <g id="Line_Thin" transform="translate(22.000000, 574.000000)" stroke="#1A1919" stroke-width="0.746">
             <path d="M0,0.2285 L567.838,0.7715" id="Stroke-91"></path>
         </g>
-        <text id="Nutritional--Objective" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="23.135" y="100.420375">Nutritional  Objective</tspan>
+        <text id="Nutritional-Objectiv" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
+            <tspan x="22" y="99.0613976">Nutritional  Objective</tspan>
         </text>
         <text id="Professional-Ingredi" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="23.135" y="178.420375">Professional Ingredients</tspan>
+            <tspan x="22" y="177.061398">Professional Ingredients</tspan>
         </text>
-        <g id="Group-3" transform="translate(21.000000, 199.000000)" fill="#1A1919">
-            <text id="CYBERGRX-|-SENIOR-PR" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154">
-                <tspan x="2.585" y="13">CYBERGRX | SENIOR PRODUCT DESIGNER | DENVER, CO | MAY, 2019 - AUG, 2019</tspan>
-            </text>
-            <text id="As-a-Senior-UX-&amp;-Pro" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168">
-                <tspan x="3" y="34">As a Senior UX &amp; Product Designer at CyberGRX, my day-to-day duties include: </tspan>
-            </text>
-            <g id="Group-2" transform="translate(0.000000, 50.000000)" font-family="ArialMT, Arial" font-size="12" font-weight="normal" letter-spacing="0.168" line-spacing="20">
-                <text id="•-User-Research-•-De">
-                    <tspan x="0" y="11">	•	User Research </tspan>
-                    <tspan x="0" y="31">	•	Design-System Management (DSM)</tspan>
-                    <tspan x="0" y="51">	•	UI &amp; Application Architecture </tspan>
-                    <tspan x="0" y="71">	•	Improving Accessibility </tspan>
-                    <tspan x="0" y="91">	•	Segments Implementation</tspan>
-                    <tspan x="0" y="111">	•	Data Analysis &amp; Visualizations</tspan>
-                    <tspan x="0" y="131">	•	Usability-Testing </tspan>
-                </text>
-                <text id="•-Creating-&amp;-Evolvin">
-                    <tspan x="293" y="11">	•	Creating &amp; Evolving Product Roadmaps</tspan>
-                    <tspan x="293" y="31">	•	Wireframing, Prototyping &amp; Iterating</tspan>
-                    <tspan x="293" y="51">	•	Collaborating, Hiring, Leading &amp; Mentoring</tspan>
-                    <tspan x="293" y="71">	•	Sketch, Abstract, Invision, DSM, Zepplin </tspan>
-                    <tspan x="293" y="91">	•	Storybook with React</tspan>
-                    <tspan x="293" y="111">	•	HTML/CSS/Node/Webpack/GraphQL/Git</tspan>
-                    <tspan x="293" y="131">	•	Whiteboards, Sticky-Notes &amp; Index Cards </tspan>
-                </text>
-            </g>
-        </g>
+        <text id="CYBERGRX-|-SENIOR-PR" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
+            <tspan x="22.585" y="211.061398">CYBERGRX | SENIOR PRODUCT DESIGNER | DENVER, CO | MAY, 2019 - AUG, 2019</tspan>
+        </text>
+        <text id="As-a-Senior-UX-&amp;-Pro" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="23" y="232">As a Senior UX &amp; Product Designer at CyberGRX, my day-to-day duties include: </tspan>
+        </text>
+        <text id="•-User-Research-•-De" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="20" y="259">	•	User Research </tspan>
+            <tspan x="20" y="279">	•	Design-System Management (DSM)</tspan>
+            <tspan x="20" y="299">	•	UI &amp; Application Architecture </tspan>
+            <tspan x="20" y="319">	•	Improving Accessibility </tspan>
+            <tspan x="20" y="339">	•	Segments Implementation</tspan>
+            <tspan x="20" y="359">	•	Data Analysis &amp; Visualizations</tspan>
+            <tspan x="20" y="379">	•	Usability-Testing </tspan>
+        </text>
+        <text id="•-Creating-&amp;-Evolvin" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="313" y="259">	•	Creating &amp; Evolving Product Roadmaps</tspan>
+            <tspan x="313" y="279">	•	Wireframing, Prototyping &amp; Iterating</tspan>
+            <tspan x="313" y="299">	•	Collaborating, Hiring, Leading &amp; Mentoring</tspan>
+            <tspan x="313" y="319">	•	Sketch, Abstract, Invision, DSM, Zepplin </tspan>
+            <tspan x="313" y="339">	•	Storybook with React</tspan>
+            <tspan x="313" y="359">	•	HTML/CSS/Node/Webpack/GraphQL/Git</tspan>
+            <tspan x="313" y="379">	•	Whiteboards, Sticky-Notes &amp; Index Cards </tspan>
+        </text>
         <text id="PICKSOUL-|-SENIOR-UX" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="24" y="415">PICKSOUL | SENIOR UX ENGINEER | DENVER, CO | AUG, 2015 - NOW</tspan>
+            <tspan x="23" y="414.061398">PICKSOUL | SENIOR UX ENGINEER | DENVER, CO | AUG, 2015 - NOW</tspan>
         </text>
         <text id="As-a-contract-UX-Eng" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="24.232" y="435.231175">As a contract UX Engineer, my day-to-day responsibilities include user-oriented research, planning, </tspan>
-            <tspan x="24.232" y="455.623753">usability and accessibility testing, functional-prototyping, UI &amp; Product design, front-end development, </tspan>
-            <tspan x="24.232" y="476.016331">then  leverage the resulting designs, data and code into user-friendly, multi-platform applications using:</tspan>
+            <tspan x="23" y="433.979866">As a contract UX Engineer, my day-to-day responsibilities include user-oriented research, planning, </tspan>
+            <tspan x="23" y="454.372444">usability and accessibility testing, functional-prototyping, UI &amp; Product design, front-end development, </tspan>
+            <tspan x="23" y="474.765022">then  leverage the resulting designs, data and code into user-friendly, multi-platform applications using:</tspan>
         </text>
-        <text id="PETER-BIRLEM-" font-family="Arial-BoldMT, Arial" font-size="17" font-weight="bold" letter-spacing="2.55" fill="#DA302A">
-            <tspan x="103.317" y="36.131875">PETER BIRLEM </tspan>
-        </text>
-        <text id="SENIOR-UX-&amp;-PRODUCT" font-family="Arial-BoldMT, Arial" font-size="17" font-weight="bold" letter-spacing="1.02" fill="#1A1919">
-            <tspan x="271.317" y="36">SENIOR UX &amp; PRODUCT DESIGNER</tspan>
-        </text>
-        <text id="picksoul.com-|" font-family="ArialMT, Arial" font-size="14" font-weight="normal" letter-spacing="0.224" fill="#1A1919">
-            <tspan x="108.876" y="62.003375">picksoul.com  |</tspan>
-        </text>
-        <text id="pbirlem@gmail.com-|" font-family="ArialMT, Arial" font-size="14" font-weight="normal" letter-spacing="0.224" fill="#1A1919">
-            <tspan x="229.876" y="62.003375">pbirlem@gmail.com  |</tspan>
-        </text>
-        <g id="github_icon" transform="translate(513.000000, 51.000000)" fill="#000000">
-            <g id="github">
-                <path d="M4.68266129,11.2727795 C4.68266129,11.3306777 4.61774194,11.3769963 4.5358871,11.3769963 C4.44274194,11.385681 4.37782258,11.3393625 4.37782258,11.2727795 C4.37782258,11.2148813 4.44274194,11.1685628 4.52459677,11.1685628 C4.60927419,11.159878 4.68266129,11.2061966 4.68266129,11.2727795 Z M3.80483871,11.1425086 C3.78508065,11.2004068 3.84153226,11.2669897 3.92620968,11.2843592 C3.99959677,11.3133083 4.08427419,11.2843592 4.10120968,11.226461 C4.11814516,11.1685628 4.06451613,11.1019798 3.97983871,11.0759256 C3.90645161,11.0556613 3.82459677,11.0846104 3.80483871,11.1425086 Z M5.05241935,11.0932951 C4.97056452,11.1135595 4.9141129,11.1685628 4.92258065,11.2351457 C4.93104839,11.2930439 5.00443548,11.3306777 5.0891129,11.3104134 C5.17096774,11.290149 5.22741935,11.2351457 5.21895161,11.1772475 C5.21048387,11.1222442 5.13427419,11.0846104 5.05241935,11.0932951 Z M6.90967742,0 C2.99475806,0 0,3.04834023 0,7.06358039 C0,10.2740356 1.97016129,13.0213052 4.78427419,13.9882051 C5.14556452,14.054788 5.27258065,13.8260901 5.27258065,13.637921 C5.27258065,13.4584366 5.2641129,12.4683774 5.2641129,11.8604463 C5.2641129,11.8604463 3.28830645,12.2946828 2.8733871,10.9977631 C2.8733871,10.9977631 2.5516129,10.1553443 2.08870968,9.93822602 C2.08870968,9.93822602 1.44233871,9.48372515 2.13387097,9.49240988 C2.13387097,9.49240988 2.83669355,9.55030808 3.2233871,10.2392967 C3.84153226,11.3567319 4.87741935,11.0353969 5.28104839,10.8443328 C5.34596774,10.3811472 5.52943548,10.0598122 5.73266129,9.86874818 C4.15483871,9.68926376 2.56290323,9.45477605 2.56290323,6.66987263 C2.56290323,5.87377238 2.77741935,5.4742748 3.22903226,4.96477064 C3.15564516,4.77660149 2.91572581,4.00076562 3.30241935,2.99912676 C3.89233871,2.81095761 5.25,3.78075246 5.25,3.78075246 C5.81451613,3.6186375 6.42137097,3.53468511 7.02258065,3.53468511 C7.62379032,3.53468511 8.23064516,3.6186375 8.79516129,3.78075246 C8.79516129,3.78075246 10.1528226,2.8080627 10.7427419,2.99912676 C11.1294355,4.00366053 10.8895161,4.77660149 10.816129,4.96477064 C11.2677419,5.47716971 11.5443548,5.87666729 11.5443548,6.66987263 C11.5443548,9.46346078 9.88185484,9.68636885 8.30403226,9.86874818 C8.56370968,10.0974461 8.78387097,10.5316826 8.78387097,11.2119864 C8.78387097,12.1875711 8.77540323,13.3947486 8.77540323,13.6321312 C8.77540323,13.8203003 8.90524194,14.0489982 9.26370968,13.9824153 C12.0862903,13.0213052 14,10.2740356 14,7.06358039 C14,3.04834023 10.8245968,0 6.90967742,0 Z M2.74354839,9.98454458 C2.70685484,10.0134937 2.71532258,10.0800766 2.76330645,10.1350799 C2.80846774,10.1813985 2.8733871,10.2016628 2.91008065,10.164029 C2.94677419,10.1350799 2.93830645,10.068497 2.89032258,10.0134937 C2.84516129,9.96717512 2.78024194,9.94691075 2.74354839,9.98454458 Z M2.43870968,9.75005687 C2.41895161,9.7876907 2.44717742,9.83400926 2.50362903,9.86295836 C2.54879032,9.89190746 2.60524194,9.88322273 2.625,9.84269399 C2.64475806,9.80506016 2.61653226,9.7587416 2.56008065,9.7297925 C2.50362903,9.71242304 2.45846774,9.72110777 2.43870968,9.75005687 Z M3.35322581,10.7806448 C3.30806452,10.8182787 3.325,10.905126 3.38991935,10.9601292 C3.45483871,11.0267122 3.53669355,11.0353969 3.5733871,10.9890783 C3.61008065,10.9514445 3.59314516,10.8645972 3.53669355,10.8095939 C3.47459677,10.743011 3.38991935,10.7343263 3.35322581,10.7806448 Z M3.03145161,10.3550931 C2.98629032,10.3840422 2.98629032,10.4593098 3.03145161,10.5258927 C3.0766129,10.5924757 3.15282258,10.6214248 3.18951613,10.5924757 C3.23467742,10.5548418 3.23467742,10.4795742 3.18951613,10.4129913 C3.15,10.3464083 3.0766129,10.3174592 3.03145161,10.3550931 Z" id="Shape" fill-rule="nonzero"></path>
+        <g id="resume_name" transform="translate(102.000000, 20.050280)" fill="#DA302A" font-family="Arial-BoldMT, Arial" font-size="17" font-weight="bold" letter-spacing="2.55">
+            <text id="PETER-BIRLEM-">
+                <tspan x="0" y="15">PETER BIRLEM </tspan>
+            </text>
+        </g>
+        <g id="resume_title" transform="translate(270.000000, 20.050280)" fill="#1A1919" font-family="Arial-BoldMT, Arial" font-size="17" font-weight="bold" letter-spacing="1.02">
+            <text id="SENIOR-UX-&amp;-PRODUCT">
+                <tspan x="0" y="15">SENIOR UX &amp; PRODUCT DESIGNER</tspan>
+            </text>
+        </g>
+        <g id="info_col_1" transform="translate(108.000000, 48.000000)" fill="#1A1919" font-family="ArialMT, Arial" font-size="14" font-weight="normal" letter-spacing="0.224">
+            <text id="picksoul.com-|">
+                <tspan x="0" y="13">picksoul.com  |</tspan>
+            </text>
+            <text id="pbirlem@gmail.com-|">
+                <tspan x="121" y="13">pbirlem@gmail.com  |</tspan>
+            </text>
+        </g>
+        <g id="info_col_2" transform="translate(377.000000, 48.000000)">
+            <g id="github_icon" transform="translate(137.000000, 2.000000)" fill="#000000" fill-rule="evenodd" stroke-width="1">
+                <g id="github">
+                    <path d="M4.68266129,11.2727795 C4.68266129,11.3306777 4.61774194,11.3769963 4.5358871,11.3769963 C4.44274194,11.385681 4.37782258,11.3393625 4.37782258,11.2727795 C4.37782258,11.2148813 4.44274194,11.1685628 4.52459677,11.1685628 C4.60927419,11.159878 4.68266129,11.2061966 4.68266129,11.2727795 Z M3.80483871,11.1425086 C3.78508065,11.2004068 3.84153226,11.2669897 3.92620968,11.2843592 C3.99959677,11.3133083 4.08427419,11.2843592 4.10120968,11.226461 C4.11814516,11.1685628 4.06451613,11.1019798 3.97983871,11.0759256 C3.90645161,11.0556613 3.82459677,11.0846104 3.80483871,11.1425086 Z M5.05241935,11.0932951 C4.97056452,11.1135595 4.9141129,11.1685628 4.92258065,11.2351457 C4.93104839,11.2930439 5.00443548,11.3306777 5.0891129,11.3104134 C5.17096774,11.290149 5.22741935,11.2351457 5.21895161,11.1772475 C5.21048387,11.1222442 5.13427419,11.0846104 5.05241935,11.0932951 Z M6.90967742,0 C2.99475806,0 0,3.04834023 0,7.06358039 C0,10.2740356 1.97016129,13.0213052 4.78427419,13.9882051 C5.14556452,14.054788 5.27258065,13.8260901 5.27258065,13.637921 C5.27258065,13.4584366 5.2641129,12.4683774 5.2641129,11.8604463 C5.2641129,11.8604463 3.28830645,12.2946828 2.8733871,10.9977631 C2.8733871,10.9977631 2.5516129,10.1553443 2.08870968,9.93822602 C2.08870968,9.93822602 1.44233871,9.48372515 2.13387097,9.49240988 C2.13387097,9.49240988 2.83669355,9.55030808 3.2233871,10.2392967 C3.84153226,11.3567319 4.87741935,11.0353969 5.28104839,10.8443328 C5.34596774,10.3811472 5.52943548,10.0598122 5.73266129,9.86874818 C4.15483871,9.68926376 2.56290323,9.45477605 2.56290323,6.66987263 C2.56290323,5.87377238 2.77741935,5.4742748 3.22903226,4.96477064 C3.15564516,4.77660149 2.91572581,4.00076562 3.30241935,2.99912676 C3.89233871,2.81095761 5.25,3.78075246 5.25,3.78075246 C5.81451613,3.6186375 6.42137097,3.53468511 7.02258065,3.53468511 C7.62379032,3.53468511 8.23064516,3.6186375 8.79516129,3.78075246 C8.79516129,3.78075246 10.1528226,2.8080627 10.7427419,2.99912676 C11.1294355,4.00366053 10.8895161,4.77660149 10.816129,4.96477064 C11.2677419,5.47716971 11.5443548,5.87666729 11.5443548,6.66987263 C11.5443548,9.46346078 9.88185484,9.68636885 8.30403226,9.86874818 C8.56370968,10.0974461 8.78387097,10.5316826 8.78387097,11.2119864 C8.78387097,12.1875711 8.77540323,13.3947486 8.77540323,13.6321312 C8.77540323,13.8203003 8.90524194,14.0489982 9.26370968,13.9824153 C12.0862903,13.0213052 14,10.2740356 14,7.06358039 C14,3.04834023 10.8245968,0 6.90967742,0 Z M2.74354839,9.98454458 C2.70685484,10.0134937 2.71532258,10.0800766 2.76330645,10.1350799 C2.80846774,10.1813985 2.8733871,10.2016628 2.91008065,10.164029 C2.94677419,10.1350799 2.93830645,10.068497 2.89032258,10.0134937 C2.84516129,9.96717512 2.78024194,9.94691075 2.74354839,9.98454458 Z M2.43870968,9.75005687 C2.41895161,9.7876907 2.44717742,9.83400926 2.50362903,9.86295836 C2.54879032,9.89190746 2.60524194,9.88322273 2.625,9.84269399 C2.64475806,9.80506016 2.61653226,9.7587416 2.56008065,9.7297925 C2.50362903,9.71242304 2.45846774,9.72110777 2.43870968,9.75005687 Z M3.35322581,10.7806448 C3.30806452,10.8182787 3.325,10.905126 3.38991935,10.9601292 C3.45483871,11.0267122 3.53669355,11.0353969 3.5733871,10.9890783 C3.61008065,10.9514445 3.59314516,10.8645972 3.53669355,10.8095939 C3.47459677,10.743011 3.38991935,10.7343263 3.35322581,10.7806448 Z M3.03145161,10.3550931 C2.98629032,10.3840422 2.98629032,10.4593098 3.03145161,10.5258927 C3.0766129,10.5924757 3.15282258,10.6214248 3.18951613,10.5924757 C3.23467742,10.5548418 3.23467742,10.4795742 3.18951613,10.4129913 C3.15,10.3464083 3.0766129,10.3174592 3.03145161,10.3550931 Z" id="Shape" fill-rule="nonzero"></path>
+                </g>
             </g>
-        </g>
-        <text id="Seeking-to-collabora" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="24" y="130">Seeking to collaborate with a solid team at a progressive company, where my expertise in UX, product </tspan>
-            <tspan x="24" y="150">design and front-end development, can be leveraged, improved &amp; shared with a top-shelf-team</tspan>
-        </text>
-        <text id="(720)-551-3297-|" font-family="ArialMT, Arial" font-size="14" font-weight="normal" letter-spacing="0.224" fill="#1A1919">
-            <tspan x="386" y="62">  (720) 551-3297  |    </tspan>
-        </text>
-        <path d="M378.722222,52 C378.322833,52 378,52.3228333 378,52.7222222 C378,59.5024444 383.497556,65 390.277778,65 C390.677167,65 391,64.6771667 391,64.2777778 L391,61.75 C391,61.3513333 390.677167,61.0285 390.277778,61.0285 C389.376444,61.0285 388.509778,60.8833333 387.698,60.6175556 C387.625778,60.5944444 387.549944,60.5828889 387.474833,60.5828889 C387.290667,60.5828889 387.105778,60.6536667 386.964944,60.7945 L385.375333,62.3855556 C383.33,61.3455556 381.658056,59.6736111 380.616611,57.629 L382.2055,56.0350556 C382.404111,55.8371667 382.462611,55.5518889 382.382444,55.302 C382.116667,54.4895 381.9715,53.6228333 381.9715,52.7222222 C381.9715,52.3228333 381.648667,52 381.25,52 L378.722222,52 Z" id="Imported-Layers" fill="#000000"></path>
-        <text id="Peter739" font-family="ArialMT, Arial" font-size="14" font-weight="normal" letter-spacing="0.224" fill="#1A1919">
-            <tspan x="530" y="62">Peter739  </tspan>
-        </text>
-        <g id="Group" transform="translate(21.000000, 491.000000)" fill="#1A1919" font-family="ArialMT, Arial" font-size="12" font-weight="normal" letter-spacing="0.168" line-spacing="20">
-            <text id="•-Setch,-Invision,-D">
-                <tspan x="0" y="11">	•	Sketch, Invision, DSM, Zeppelin</tspan>
-                <tspan x="0" y="31">	•	HTML, CSS(SASS), Ionic, React</tspan>
-                <tspan x="0" y="51">	•	GraphQL, Apollo, Node, Webpack, Git… </tspan>
-                <tspan x="0" y="71">	•	Android Studio, Visual CS, Atom, Xcode</tspan>
+            <text id="(720)-551-3297-|" font-family="ArialMT, Arial" font-size="14" font-weight="normal" letter-spacing="0.224" fill="#1A1919">
+                <tspan x="21" y="13">(720) 551-3297  |    </tspan>
             </text>
-            <text id="•-Creating-&amp;-Evolvin">
-                <tspan x="292" y="11">	•	Creating &amp; Evolving Product Roadmaps</tspan>
-                <tspan x="292" y="31">	•	Wireframing, Prototyping &amp; Iterating</tspan>
-                <tspan x="292" y="51">	•	Agile &amp; Lean Product Development</tspan>
-                <tspan x="292" y="71">	•	Project Management &amp; Customer Success</tspan>
+            <path d="M2.72222222,3 C2.32283333,3 2,3.32283333 2,3.72222222 C2,10.5024444 7.49755556,16 14.2777778,16 C14.6771667,16 15,15.6771667 15,15.2777778 L15,12.75 C15,12.3513333 14.6771667,12.0285 14.2777778,12.0285 C13.3764444,12.0285 12.5097778,11.8833333 11.698,11.6175556 C11.6257778,11.5944444 11.5499444,11.5828889 11.4748333,11.5828889 C11.2906667,11.5828889 11.1057778,11.6536667 10.9649444,11.7945 L9.37533333,13.3855556 C7.33,12.3455556 5.65805556,10.6736111 4.61661111,8.629 L6.2055,7.03505556 C6.40411111,6.83716667 6.46261111,6.55188889 6.38244444,6.302 C6.11666667,5.4895 5.9715,4.62283333 5.9715,3.72222222 C5.9715,3.32283333 5.64866667,3 5.25,3 L2.72222222,3 Z" id="Imported-Layers" fill="#000000" fill-rule="evenodd"></path>
+            <text id="Peter739" font-family="ArialMT, Arial" font-size="14" font-weight="normal" letter-spacing="0.224" fill="#1A1919">
+                <tspan x="156" y="13">Peter739  </tspan>
             </text>
         </g>
+        <g id="nutritional_objective" transform="translate(23.000000, 118.000000)" fill="#1A1919" font-family="ArialMT, Arial" font-size="12" font-weight="normal" letter-spacing="0.168" line-spacing="20">
+            <text id="Seeking-to-collabora">
+                <tspan x="0" y="11">Seeking to collaborate with a solid team at a progressive company, where my expertise in UX, product </tspan>
+                <tspan x="0" y="31">design and front-end development, can be leveraged, improved &amp; shared with a top-shelf-team.</tspan>
+            </text>
+        </g>
+        <text id="•-Setch,-Invision,-D" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="20" y="501">	•	Sketch, Invision, DSM, Zeppelin</tspan>
+            <tspan x="20" y="521">	•	HTML, CSS(SASS), Ionic, React</tspan>
+            <tspan x="20" y="541">	•	GraphQL, Apollo, Node, Webpack, Git… </tspan>
+            <tspan x="20" y="561">	•	Android Studio, Visual CS, Atom, Xcode</tspan>
+        </text>
+        <text id="•-Creating-&amp;-Evolvin" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="312" y="501">	•	Creating &amp; Evolving Product Roadmaps</tspan>
+            <tspan x="312" y="521">	•	Wireframing, Prototyping &amp; Iterating</tspan>
+            <tspan x="312" y="541">	•	Agile &amp; Lean Product Development</tspan>
+            <tspan x="312" y="561">	•	Project Management &amp; Customer Success</tspan>
+        </text>
         <text id="TOWERS-WATSON-|-SENI" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="24" y="597">TOWERS WATSON | SENIOR UX ENGINEER | DENVER, CO | MAY, 2015 - JUL, 2015</tspan>
+            <tspan x="23" y="596.061398">TOWERS WATSON | SENIOR UX ENGINEER | DENVER, CO | MAY, 2015 - JUL, 2015</tspan>
         </text>
         <text id="My-role-as-Senior-UX" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="24.232" y="617.231175">My role as Senior UX Engineer, focused on research &amp; design; including user-journeys, usability </tspan>
-            <tspan x="24.232" y="637.623753">testing, accessibility, competitive analysis, in order to  leverage resulting data and design, into new </tspan>
-            <tspan x="24.232" y="658.016331">features, as well as iterate existing ones across the SaaS platform.</tspan>
+            <tspan x="23" y="618.289963">My role as Senior UX Engineer, focused on research &amp; design; including user-journeys, usability </tspan>
+            <tspan x="23" y="638.682541">testing, accessibility, competitive analysis, in order to  leverage resulting data and design, into new </tspan>
+            <tspan x="23" y="659.075119">features, as well as iterate existing ones across the SaaS platform.</tspan>
         </text>
-        <g id="Group" transform="translate(21.000000, 674.000000)" fill="#1A1919" font-family="ArialMT, Arial" font-size="12" font-weight="normal" letter-spacing="0.168" line-spacing="20">
-            <text id="•-Sketch,-Invision,">
-                <tspan x="0" y="11">	•	Sketch, Invision, Axure, Zeppelin</tspan>
-                <tspan x="0" y="31">	•	AdobeCS: Illustrator, Photoshop, InDesign</tspan>
-                <tspan x="0" y="51">	•	Google Analytics and Data-Analysis</tspan>
-                <tspan x="0" y="71">	•	Lo/Hi-Fi Wireframing &amp; Prototyping</tspan>
-                <tspan x="0" y="91">	•	Whiteboards, Sticky-Notes &amp; Index Cards </tspan>
-                <tspan x="260.085938" y="91"></tspan>
-            </text>
-            <text id="•-Creating-&amp;-Evolvin">
-                <tspan x="290" y="11">	•	Creating &amp; Evolving Product Roadmaps</tspan>
-                <tspan x="290" y="31">	•	Lo-Fi/Hi-Fi Wireframing &amp; Prototyping</tspan>
-                <tspan x="290" y="51">	•	</tspan>
-                <tspan x="326" y="51">Agile &amp; Lean Product Development</tspan>
-                <tspan x="290" y="71">	•	User-Journeys &amp; Usability-Testing</tspan>
-                <tspan x="290" y="91">	•	Collaborating, Hiring, Managing &amp; Mentoring</tspan>
-                <tspan x="290" y="111"></tspan>
-            </text>
-        </g>
-        <polygon id="Fill-5" fill="#000000" points="212 57.6666667 222.000476 58.9993333 212 60.3333333 212.007334 65 226 58.9993333 212.007334 53"></polygon>
+        <text id="•-Sketch,-Invision," font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="20" y="684">	•	Sketch, Invision, Axure, Zeppelin</tspan>
+            <tspan x="20" y="704">	•	AdobeCS: Illustrator, Photoshop, InDesign</tspan>
+            <tspan x="20" y="724">	•	Google Analytics and Data-Analysis</tspan>
+            <tspan x="20" y="744">	•	Lo/Hi-Fi Wireframing &amp; Prototyping</tspan>
+            <tspan x="20" y="764">	•	Whiteboards, Sticky-Notes &amp; Index Cards </tspan>
+            <tspan x="280.085938" y="764"></tspan>
+        </text>
+        <text id="•-Creating-&amp;-Evolvin" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="310" y="684">	•	Creating &amp; Evolving Product Roadmaps</tspan>
+            <tspan x="310" y="704">	•	Lo-Fi/Hi-Fi Wireframing &amp; Prototyping</tspan>
+            <tspan x="310" y="724">	•	</tspan>
+            <tspan x="346" y="724">Agile &amp; Lean Product Development</tspan>
+            <tspan x="310" y="744">	•	User-Journeys &amp; Usability-Testing</tspan>
+            <tspan x="310" y="764">	•	Collaborating, Hiring, Managing &amp; Mentoring</tspan>
+            <tspan x="310" y="784"></tspan>
+        </text>
+        <polygon id="Fill-5" fill="#000000" points="211 56.6666667 221.000476 57.9993333 211 59.3333333 211.007334 64 225 57.9993333 211.007334 52"></polygon>
     </g>
 </svg>

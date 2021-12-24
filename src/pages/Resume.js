@@ -26,9 +26,9 @@ const Resume = () => {
       </Col>
     </Row>
     <Row>
-    <Col xs={12} md={12}>
+
             <img class='img' src={ResumeP3} alt='ResumeP3' />
-      </Col>
+    
     </Row>
   </Container>
     </section>
