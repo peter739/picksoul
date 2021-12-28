@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="612px" height="792px" viewBox="0 0 612 792" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
     <title>PBirlem_Resume_P3</title>
     <desc>Created with Sketch.</desc>
     <g id="PBirlem_Resume_P3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#FFFFFF" x="0" y="0" width="612" height="792"></rect>
+        <text id=".-" font-family="ArialMT, Arial" font-size="12" font-weight="normal" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="72.009" y="749.44375">. </tspan>
+        </text>
         <g id="Line_Thicke" transform="translate(21.999900, 23.716700)" fill="#1A1919">
             <polygon id="Fill-78" points="571.255 8.274 0 7.731 0 0 571.255 0.543"></polygon>
         </g>
@@ -14,224 +17,106 @@
         <text id="Professional-Ingredi" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
             <tspan x="23.135" y="48.420375">Professional Ingredients</tspan>
         </text>
-        <text id="FUNBRAIN-|-UI-&amp;-INTE" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="24" y="80">FUNBRAIN | UI &amp; INTERACTIVE DESIGNER | BOSTON, MA | FEB, 2003 - JAN, 2006</tspan>
+        <text id="TAPINFLUENCE-|-SENIO" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
+            <tspan x="24" y="80">TAPINFLUENCE | SENIOR UX ENGINEER | BOULDER, CO | NOV, 2014 - APR, 2015</tspan>
         </text>
-        <text id="As-an-Interactive-De" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="24.232" y="100.231175">As an Interactive Designer at Funbrain (a subsidiary of Pearson Publishing, specializing in educational </tspan>
-            <tspan x="24.232" y="120.623753">media and game development) my day-to-day duties included designing wireframes, user-journeys, </tspan>
-            <tspan x="24.232" y="141.016331">interactive prototypes, UI and architecture design and development for educational games and media.</tspan>
+        <text id="TapInfluence-taught" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="24.232" y="100.231175">TapInfluence taught me the importance of checking ego at the door, in order to align the team with one </tspan>
+            <tspan x="24.232" y="120.623753">goal: To constantly improve the product &amp; platform based on user research and feedback via rapid </tspan>
+            <tspan x="24.232" y="141.016331">design, prototyping, development and perpetual iteration.</tspan>
         </text>
-        <g id="Group" transform="translate(21.000000, 157.000000)" fill="#1A1919" font-family="ArialMT, Arial" font-size="12" font-weight="normal" letter-spacing="0.168" line-spacing="20">
-            <text id="•-AdobeCS:-Illustrat">
-                <tspan x="0" y="11">	•	AdobeCS: Illustrator, Photoshop, Flash	</tspan>
-                <tspan x="0" y="31">	•	Lo/Hi-Fi Wireframing &amp; Prototyping</tspan>
-                <tspan x="0" y="51">	•	Whiteboards, Sticky-Notes &amp; Index Cards </tspan>
-            </text>
-            <text id="•-Storyboarding-for">
-                <tspan x="290" y="11">	•	Storyboarding for Interactive Motion Design</tspan>
-                <tspan x="290" y="31">	•	</tspan>
-                <tspan x="326" y="31">Project &amp; Client Management</tspan>
-                <tspan x="290" y="51">	•	UX R&amp;D, usability-testing, product iteration</tspan>
-                <tspan x="553.431641" y="51"></tspan>
-            </text>
-        </g>
-        <g id="Line_Thin" transform="translate(22.000000, 222.000000)" stroke="#1A1919" stroke-width="0.746">
-            <path d="M0,0.2285 L567.838,0.7715" id="Stroke-91"></path>
-        </g>
-        <g id="Line_Thin" transform="translate(22.000000, 606.000000)" stroke="#1A1919" stroke-width="0.746">
-            <path d="M0,0.2285 L567.838,0.7715" id="Stroke-91"></path>
-        </g>
-        <text id="FABLEVISION-|-CLIENT" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="24" y="243">FABLEVISION | CLIENT MANAGER | WATERTOWN, MA | MAY, 2000 - FEB, 2003</tspan>
+        <text id="•-UX-Pin,-Sketch,-In" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="21" y="168">	•	UX Pin, Sketch, InVision, Balsamiq</tspan>
+            <tspan x="21" y="188">	•	AdobeCS (Illustrator, Photoshop, InDesign</tspan>
+            <tspan x="21" y="208">	•	Segments, Analysis &amp; Data Visualization</tspan>
+            <tspan x="21" y="228">	•	Lo/Hi-Fi Wireframing &amp; Prototyping</tspan>
+            <tspan x="21" y="248">	•	Whiteboards, Sticky-Notes &amp; Index Cards </tspan>
+            <tspan x="281.085938" y="248"></tspan>
         </text>
-        <text id="As-Client-Manager-at" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="24.232" y="263.231175">As Client Manager at the Award-Winning Children’s Media &amp; Animation Studio: FableVision, my </tspan>
-            <tspan x="24.232" y="283.623753">responsibilities centered around acting as Point-Person and Liaison for our international client-base, </tspan>
-            <tspan x="24.232" y="304.016331">which included Scholastic, Nickelodeon, Pearson, PBS and many more.</tspan>
+        <text id="•-Creating-&amp;-Evolvin" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="311" y="168">	•	Creating &amp; Evolving the Product Roadmap</tspan>
+            <tspan x="311" y="188">	•	</tspan>
+            <tspan x="347" y="188">Agile Lean Product Development</tspan>
+            <tspan x="311" y="208">	•	UX Research: Surveys, Polls, Interviews</tspan>
+            <tspan x="561.740234" y="208"></tspan>
+            <tspan x="311" y="228">	•	User-Journeying &amp; Usability-Testing</tspan>
+            <tspan x="311" y="248">	•	Collaborating, Hiring, Managing &amp; Mentoring</tspan>
+            <tspan x="311" y="268"></tspan>
         </text>
-        <g id="Group" transform="translate(21.000000, 317.000000)" fill="#1A1919" font-family="ArialMT, Arial" font-size="12" font-weight="normal" letter-spacing="0.168" line-spacing="20">
-            <text id="•-Studio-&amp;-Client-Ma">
-                <tspan x="0" y="11">	•	Studio &amp; Client Management</tspan>
-                <tspan x="0" y="31">	•	HTML, Flash/ AS3, CSS, AdobeCS</tspan>
-                <tspan x="0" y="51">	•	Collaborating, Interviewing &amp; Hiring </tspan>
-            </text>
-            <text id="•-Vetting-&amp;-Managing">
-                <tspan x="290" y="11">	•	Vetting &amp; Managing the Internship Program</tspan>
-                <tspan x="290" y="31">	•	Production Art As Needed</tspan>
-                <tspan x="290" y="51">	•	Assisting w/ (Waterfall) Project Management </tspan>
-            </text>
-        </g>
-        <g id="Line_Thin" transform="translate(22.000000, 382.000000)" stroke="#1A1919" stroke-width="0.746">
-            <path d="M0,0.2285 L567.838,0.7715" id="Stroke-91"></path>
-        </g>
-        <text id="TOYSMART-|-CONTENT-D" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="24" y="403">TOYSMART | CONTENT DEVELOPER | WALTHAM, MA | JUNE, 1998 - APR, 2000</tspan>
+        <text id="ENVISIONTEL-|-UX-&amp;-C" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
+            <tspan x="22" y="283">ENVISIONTEL | UX &amp; CREATIVE DIRECTOR | BOULDER, CO | OCT, 2013 - NOV, 2014</tspan>
         </text>
-        <g id="Line_Thin" transform="translate(22.000000, 572.000000)" stroke="#1A1919" stroke-width="0.746">
-            <path d="M0,0.2285 L567.838,0.7715" id="Stroke-91"></path>
-        </g>
-        <text id="University-of-Colora" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="24" y="596">University of Colorado | Boulder, CO | Sep 1996 - May 2001</tspan>
+        <text id="As-Senior-UX-Enginee" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="24.232" y="303.231175">As Senior UX Engineer &amp; Creative Director, my duties included Lean/Agile product development and  </tspan>
+            <tspan x="24.232" y="323.623753">management, data-analysis, creative direction, UX research &amp; design, and leadership.</tspan>
         </text>
-        <text id="BA-English-Literatur" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="445.154672" y="596">BA English Literature</tspan>
+        <text id="•-UX-PIn,-Sketch,-In" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="21" y="348">	•	UX PIn, Sketch, InVision</tspan>
+            <tspan x="21" y="368">	•	AdobeCS: Illustrator, Photoshop, InDesign...</tspan>
+            <tspan x="21" y="388">	•	Lo-Fi/Hi-Fi Wireframing &amp; Prototyping</tspan>
+            <tspan x="21" y="408">	•	Whiteboards, Sticky-Notes &amp; Index Cards </tspan>
+            <tspan x="21" y="428">	•	CRM, CMS &amp; LMS (Sales Force, Totara etc.)</tspan>
         </text>
-        <g id="Line_Thin" transform="translate(22.000000, 636.000000)" stroke="#1A1919" stroke-width="0.746">
-            <path d="M0,0.2285 L567.838,0.7715" id="Stroke-91"></path>
-        </g>
-        <g id="Line_Thin" transform="translate(22.000000, 667.000000)" stroke="#1A1919" stroke-width="0.746">
-            <path d="M0,0.2285 L567.838,0.7715" id="Stroke-91"></path>
-        </g>
-        <text id="Mass-College-of-Art" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="24" y="626">Mass College of Art | Boston, MA | Sep 2003 - May 2004</tspan>
+        <text id="•-Creating-&amp;-Evolvin" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="311" y="348">	•	Creating &amp; Evolving Product Roadmaps</tspan>
+            <tspan x="311" y="368">	•	</tspan>
+            <tspan x="347" y="368">Agile &amp; Lean Product Development</tspan>
+            <tspan x="311" y="388">	•	Conducting User Surveys and Interviews</tspan>
+            <tspan x="563.767578" y="388"></tspan>
+            <tspan x="311" y="408">	•	User Journeys &amp; Usability-Testing</tspan>
+            <tspan x="311" y="428">	•	Collaborating, Hiring, Managing &amp; Mentoring</tspan>
+            <tspan x="311" y="448"></tspan>
         </text>
-        <text id="Interactive-Design" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="467.628391" y="626">Interactive Design</tspan>
+        <text id="HYDRO-INTL-|-UX-&amp;-MO" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
+            <tspan x="24" y="463">HYDRO INTL | UX &amp; MOTION DESIGNER | PORTLAND, ME | SEP, 2012 - NOV, 2013</tspan>
         </text>
-        <text id="Corcoran-School-of-A" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="24" y="656">Corcoran School of Art | Washington, DC | Sep 2005 - May 2006</tspan>
+        <text id="My-main-duties-at-Hy" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="24.232" y="483.231175">My main duties at Hydro International included UX Research &amp; Design, wireframing, designing and </tspan>
+            <tspan x="24.232" y="503.623753">developing UI’s &amp; animating complex hydro-engineering systems for new &amp; existing clients.</tspan>
         </text>
-        <text id="Print-Making" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="504.145164" y="656">Print Making</tspan>
+        <text id="•-Axure,-AdobeCS,-Om" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="21" y="528">	•	Axure, AdobeCS, Omnigraffle</tspan>
+            <tspan x="21" y="548">	•	USAnimation, After-Effects, Flash</tspan>
+            <tspan x="234.849609" y="548"></tspan>
+            <tspan x="21" y="568">	•	HTML, CSS, Bootstrap</tspan>
+            <tspan x="179.039062" y="568"></tspan>
         </text>
-        <text id="I-was-brought-on-boa" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="24.232" y="423.231175">I was brought on board for the summer, as a content developer for this Disney-owned, e-commerce toy </tspan>
-            <tspan x="24.232" y="443.623753">company. What began as a three-month gig, researching and writing content for kids and their families, </tspan>
-            <tspan x="24.232" y="464.016331">turned into an amazing two-year adventure. I created everything from animations &amp; brainteasers, to </tspan>
-            <tspan x="24.232" y="484.408909">researched articles &amp; original stories: 100% remote after the 1st summer. Legacy/Dusty practices:</tspan>
+        <text id="•-Storyboarding-for" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="311" y="528">	•	Storyboarding for Interactive Motion Design</tspan>
+            <tspan x="311" y="548">	•	</tspan>
+            <tspan x="347" y="548">Interactive 2D Animation </tspan>
+            <tspan x="311" y="568">	•	Project Management &amp; Customer Success</tspan>
+            <tspan x="573.095703" y="568"></tspan>
         </text>
-        <g id="Group" transform="translate(21.000000, 496.000000)" fill="#1A1919" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20">
-            <text id="•-Copywriting,-Resea">
-                <tspan x="0" y="11">	•	Copywriting, Research &amp; Motion Design</tspan>
-                <tspan x="0" y="31">	•	</tspan>
-                <tspan x="36" y="31" letter-spacing="0.168">Illustrator, Photoshop, Flash, HTML</tspan>
-            </text>
-            <text id="•-MS-Word,-Outlook," letter-spacing="0.168">
-                <tspan x="290" y="11">	•	MS Word, Outlook, IE / Windows 98</tspan>
-                <tspan x="522.723687" y="11"></tspan>
-                <tspan x="290" y="31">	•	AskJeeves, Alta-Vista, The Town Library</tspan>
-            </text>
-        </g>
-        <g id="line_medium" transform="translate(21.999900, 571.851000)" fill="#1A1919">
+        <text id="PICKSOUL-|-CONTRACT" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
+            <tspan x="24" y="603">PICKSOUL | CONTRACT UX DESIGNER | KAILUA, HI | FEB 2006 - OCT 2013</tspan>
+        </text>
+        <text id="In-2006-I-founded-Pi" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="24.232" y="623.231175">In 2006 I founded PickSoul to begin performing extended design and development projects. My duties </tspan>
+            <tspan x="24.232" y="643.623753">included hiring &amp; team building, UX &amp; Interactive Design and Development, Agile Project Development,  </tspan>
+            <tspan x="24.232" y="664.016331">UI and Application Architecture and all of the more granular roles of managing a small product </tspan>
+            <tspan x="24.232" y="684.408909">development company and team. A few of many clients included:</tspan>
+        </text>
+        <text id="•-Acies-Insights-•-P" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="21" y="711">	•	Acies Insights</tspan>
+            <tspan x="21" y="731">	•	Pacific Hydro-Geologic</tspan>
+            <tspan x="21" y="751">	•	Element Environmental </tspan>
+        </text>
+        <text id="•-Hawaii-Home-Sales" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
+            <tspan x="311" y="711">	•	Hawaii Home Sales</tspan>
+            <tspan x="311" y="731">	•	Hilco-</tspan>
+            <tspan x="377.667969" y="731">StreamBank</tspan>
+            <tspan x="311" y="751">	•	Wilde Communications</tspan>
+            <tspan x="469.707031" y="751"></tspan>
+        </text>
+        <g id="line_medium" transform="translate(21.000000, 260.000000)" fill="#1A1919">
             <polygon id="Fill-1" points="570.589 4.585 0 4.042 0 0 570.589 0.543"></polygon>
         </g>
-        <text id="Active-Ingredients" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="23.135" y="561.420375">Active Ingredients</tspan>
-        </text>
-        <g id="line_medium" transform="translate(21.999900, 706.851000)" fill="#1A1919">
+        <g id="line_medium" transform="translate(21.000000, 440.000000)" fill="#1A1919">
             <polygon id="Fill-1" points="570.589 4.585 0 4.042 0 0 570.589 0.543"></polygon>
         </g>
-        <text id="All-products-utilize" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="23.135" y="696.420375">All products utilize one or more of the following</tspan>
-        </text>
-        <g id="Group-2" transform="translate(563.000000, 724.000000)">
-            <path d="M29.4341004,13.6640688 L16.339281,0.565633981 C15.5844398,-0.18854466 14.3613193,-0.18854466 13.6064782,0.565633981 L10.88372,3.28643872 L14.3337077,6.7364968 C16.1457549,6.12443292 17.8613738,7.85950678 17.2392777,9.66154604 L20.5647123,12.9870485 C22.8568917,12.1968566 24.6615728,15.0629763 22.9399271,16.7833177 C21.1660495,18.5572315 18.2383813,16.591127 19.1899405,14.2828292 L16.0861569,11.1830002 L16.0861569,19.3427358 C17.7803473,20.1824821 17.5767765,22.1452384 16.6941904,23.0258335 C15.7962701,23.9232512 14.3410062,23.9232512 13.4430859,23.0258335 C12.2665276,21.8472423 12.7017939,19.884486 14.1964314,19.2757704 L14.1964314,11.0390246 C12.8035792,10.4691489 12.5491159,8.98050779 12.9482216,8.025581 L9.54711761,4.62038975 L0.565899559,13.6031303 C-0.188633186,14.3578338 -0.188633186,15.5812852 0.565899559,16.3359888 L13.6647369,29.4344236 C14.4193484,30.1885255 15.6422586,30.1885255 16.39687,29.4344236 L29.4341004,16.3969273 C30.1886332,15.6422237 30.1886332,14.4187723 29.4341004,13.6640688 L29.4341004,13.6640688 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
-            <text id="GIT" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" letter-spacing="0.099" fill="#1A1919">
-                <tspan x="7" y="41">GIT</tspan>
-            </text>
-        </g>
-        <g id="Group-7" transform="translate(443.000000, 724.000000)">
-            <g id="react" fill="#000000" fill-rule="nonzero">
-                <path d="M27.7710938,9.39779586 C27.4125,9.28128422 27.0539063,9.17124545 26.6953125,9.06767956 C26.7550781,8.82818341 26.8082031,8.58868727 26.8613281,8.34919113 C27.678125,4.49136141 27.1402344,1.39085732 25.3273438,0.368144073 C23.5808594,-0.609259095 20.7320313,0.406981285 17.85,2.85372564 C17.5644531,3.09322178 17.2855469,3.34566366 17.0199219,3.59810554 C16.840625,3.42981095 16.6546875,3.26151637 16.46875,3.09969465 C13.4472656,0.484655709 10.4191406,-0.615731963 8.60625,0.413454154 C6.86640625,1.39733019 6.3484375,4.31659396 7.07890625,7.96729188 C7.15195313,8.32977253 7.23164063,8.6857803 7.32460938,9.04826095 C6.89960938,9.16477258 6.48125,9.29422996 6.08945313,9.4301602 C2.54335938,10.6276409 0,12.5177186 0,14.4725249 C0,16.4920599 2.709375,18.5180678 6.39492188,19.7479128 C6.69375,19.8450059 6.99257813,19.9420989 7.29804688,20.0262462 C7.1984375,20.4146183 7.11210938,20.7965176 7.03242188,21.1913626 C6.33515625,24.7838047 6.8796875,27.6318669 8.61953125,28.60927 C10.4125,29.6190376 13.4273438,28.5833786 16.3625,26.0783784 C16.5949219,25.8777195 16.8273438,25.6705877 17.0597656,25.4505101 C17.3519531,25.7288435 17.6574219,25.9942311 17.9628906,26.2531459 C20.8050781,28.6351615 23.6140625,29.599619 25.3472656,28.6222158 C27.1402344,27.6124483 27.7246094,24.5507814 26.9675781,20.822409 C26.9078125,20.5376028 26.8414063,20.2463237 26.7683594,19.9485718 C26.9808594,19.890316 27.1867188,19.8255873 27.3925781,19.7608586 C31.2242188,18.5245407 34,16.5244243 34,14.4725249 C34,12.5112457 31.3835938,10.6082223 27.7710938,9.39779586 Z M18.7863281,3.90233036 C21.2566406,1.80512092 23.5609375,0.983066596 24.6101562,1.57209764 C25.7324219,2.1999659 26.1640625,4.73733042 25.4601562,8.07085778 C25.4136719,8.29093532 25.3671875,8.50453998 25.3074219,8.71814465 C23.8332031,8.39450121 22.3390625,8.16147794 20.8382813,8.03202057 C19.975,6.828067 19.0320313,5.67589638 18.009375,4.59492731 C18.2683594,4.35543117 18.5207031,4.12888077 18.7863281,3.90233036 L18.7863281,3.90233036 Z M11.103125,17.8319437 C11.4417969,18.3950833 11.7871094,18.9582229 12.1523438,19.5084167 C11.1164063,19.3983779 10.0871094,19.2365562 9.07109375,19.0229516 C9.36328125,18.0908585 9.72851563,17.126401 10.1535156,16.142525 C10.4589844,16.7121374 10.7710938,17.275277 11.103125,17.8319437 L11.103125,17.8319437 Z M9.09101563,10.0450827 C10.0472656,9.83795093 11.0632813,9.66965634 12.1191406,9.54019897 C11.7671875,10.0774471 11.421875,10.6276409 11.0964844,11.1843076 C10.7710938,11.7345014 10.4523438,12.297641 10.1535156,12.8672535 C9.73515625,11.902796 9.38320313,10.9577572 9.09101563,10.0450827 Z M10.9105469,14.5048892 C11.3488281,13.6116334 11.8269531,12.7377961 12.3316406,11.8769046 C12.8363281,11.016013 13.3808594,10.181013 13.9519531,9.35895864 C14.9480469,9.28775709 15.9640625,9.24891988 17,9.24891988 C18.0359375,9.24891988 19.0585937,9.28775709 20.0480469,9.35895864 C20.6125,10.1745401 21.1503906,11.0095402 21.6617187,11.8639588 C22.1730469,12.7183775 22.6511719,13.5922147 23.1027344,14.4789978 C22.6578125,15.3722536 22.1796875,16.2525638 21.6683594,17.1199282 C21.1636719,17.9808197 20.6257812,18.8158198 20.0613281,19.6443469 C19.071875,19.7155485 18.0425781,19.7479128 17,19.7479128 C15.9574219,19.7479128 14.9480469,19.7155485 13.971875,19.6572927 C13.3941406,18.8352384 12.8496094,17.9937654 12.3382812,17.1328739 C11.8269531,16.2719824 11.3554688,15.3981451 10.9105469,14.5048892 Z M22.9035156,17.818998 C23.2421875,17.2493855 23.5609375,16.6733002 23.8730469,16.0907421 C24.2980469,17.029308 24.6699219,17.9808197 24.9953125,18.9582229 C23.9660156,19.1847733 22.9234375,19.3595407 21.8742188,19.4760524 C22.2328125,18.9323314 22.5714844,18.3756647 22.9035156,17.818998 Z M23.8597656,12.8672535 C23.5476562,12.297641 23.2289063,11.7280286 22.896875,11.1713619 C22.5714844,10.621168 22.2328125,10.0774471 21.8808594,9.54019897 C22.95,9.66965634 23.9726562,9.84442379 24.9289062,10.0580285 C24.6234375,11.016013 24.2648437,11.9481061 23.8597656,12.8672535 L23.8597656,12.8672535 Z M17.0132813,5.58527621 C17.7105469,6.32318324 18.3679688,7.09992748 18.9789063,7.9025632 C17.6640625,7.84430738 16.3425781,7.84430738 15.0277344,7.9025632 C15.6785156,7.06756314 16.3492188,6.2908189 17.0132813,5.58527621 Z M9.31015625,1.61740773 C10.4257813,0.983066596 12.9027344,1.88926821 15.5125,4.1418265 C15.6785156,4.28422961 15.8445313,4.43957846 16.0171875,4.59492731 C14.9878906,5.67589638 14.0382813,6.828067 13.1683594,8.03202057 C11.6675781,8.16147794 10.1800781,8.38802835 8.70585938,8.70519891 C8.61953125,8.37508261 8.54648438,8.03849344 8.4734375,7.70190427 C7.84921875,4.56903583 8.2609375,2.20643877 9.31015625,1.61740773 L9.31015625,1.61740773 Z M7.68320313,18.6798895 C7.40429688,18.6022151 7.13203125,18.5180678 6.85976563,18.4274476 C5.4453125,17.9937654 3.83828125,17.3076414 2.67617188,16.4079126 C2.00546875,15.9548118 1.55390625,15.255742 1.42773438,14.4725249 C1.42773438,13.2879899 3.52617188,11.7733387 6.55429688,10.7441525 C6.9328125,10.6146952 7.31796875,10.4981835 7.703125,10.3881448 C8.1546875,11.7927573 8.69921875,13.1714783 9.33007813,14.5048892 C8.69257813,15.8577188 8.14140625,17.2558584 7.68320313,18.6798895 L7.68320313,18.6798895 Z M15.4261719,25.0233008 C14.3304688,26.000704 13.0621094,26.7774482 11.6808594,27.3082234 C10.94375,27.6512855 10.09375,27.6836498 9.33671875,27.3923707 C8.28085938,26.7968668 7.84257813,24.5119442 8.44023438,21.4373316 C8.51328125,21.0748509 8.59296875,20.7123703 8.6859375,20.3563625 C10.1734375,20.6670602 11.6742188,20.8806649 13.1949219,20.9907036 C14.0714844,22.2011301 15.034375,23.3597736 16.0636719,24.4472155 C15.8511719,24.6478744 15.6386719,24.8420605 15.4261719,25.0233008 Z M17.053125,23.4503937 C16.3757813,22.7383782 15.6984375,21.9486882 15.0410156,21.1007424 C15.6785156,21.1266339 16.3359375,21.1395796 17,21.1395796 C17.6839844,21.1395796 18.3546875,21.1266339 19.01875,21.0942695 C18.4078125,21.9163238 17.7503906,22.699541 17.053125,23.4503937 L17.053125,23.4503937 Z M25.7324219,25.3922543 C25.6726563,26.1819443 25.2742188,26.9198513 24.6367188,27.4182622 C23.5808594,28.0137661 21.3296875,27.2370219 18.8992187,25.2045411 C18.6203125,24.9715179 18.3414063,24.719076 18.0558594,24.4601612 C19.071875,23.3662464 20.0082031,22.2076029 20.8582031,20.9907036 C22.3789062,20.8677191 23.8929688,20.6411687 25.3871094,20.3110524 C25.4535156,20.57644 25.5132813,20.8418277 25.5664063,21.1007424 C25.8917969,22.498882 25.9449219,23.9552775 25.7324219,25.3922543 L25.7324219,25.3922543 Z M26.9410156,18.4339205 C26.7550781,18.4921763 26.5691406,18.5504321 26.3765625,18.6022151 C25.9117188,17.1911297 25.340625,15.8124087 24.6832031,14.4725249 C25.3207031,13.1520597 25.8585938,11.7927573 26.3101563,10.4010905 C26.6554688,10.4981835 26.9875,10.6017494 27.30625,10.7053153 C30.4007813,11.7409743 32.5722656,13.2815171 32.5722656,14.4595792 C32.5722656,15.7282614 30.2546875,17.3658972 26.9410156,18.4339205 Z M17,17.4629902 C18.6800781,17.4629902 20.0414062,16.1360521 20.0414062,14.4984164 C20.0414062,12.8607806 18.6800781,11.5338425 17,11.5338425 C15.3199219,11.5338425 13.9585938,12.8607806 13.9585938,14.4984164 C13.9585938,16.1360521 15.3199219,17.4629902 17,17.4629902 Z" id="Shape"></path>
-            </g>
-            <text id="REACT" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" letter-spacing="0.099" fill="#1A1919">
-                <tspan x="1" y="41">REACT</tspan>
-            </text>
-        </g>
-        <g id="Group-12" transform="translate(64.000000, 724.000000)">
-            <g id="invision" transform="translate(3.000000, 0.000000)" fill="#000000" fill-rule="nonzero">
-                <path d="M27.28125,4.75809868e-16 L2.71875,4.75809868e-16 C1.21875,4.75809868e-16 0,1.21875 0,2.71875 L0,27.28125 C0,28.78125 1.21875,30 2.71875,30 L27.28125,30 C28.78125,30 30,28.78125 30,27.28125 L30,2.71875 C30,1.21875 28.78125,0 27.28125,4.75809868e-16 Z M11.7924107,7.60714286 C11.8191964,9.17410714 10.2924107,9.43526786 10.0111607,9.44196429 C9.01339286,9.44196429 8.19642857,8.63839286 8.19642857,7.63392857 C8.203125,5.27678571 11.7522321,5.25669643 11.7924107,7.60714286 L11.7924107,7.60714286 Z M22.2857143,23.1026786 C17.8928571,23.1026786 20.0022321,18.1473214 20.6116071,15.9642857 C21.5558036,12.8571429 17.5848214,12.0133929 16.6004464,16.0111607 L14.8727679,22.9285714 L11.8526786,22.9285714 L12.3950893,20.7522321 C10.2857143,24.2209821 6.06026786,23.7254464 6.06026786,20.4642857 C6.06696429,19.5066964 6.12053571,19.5267857 7.60044643,13.4933036 L5.47098214,13.4933036 L6.12053571,11.109375 L11.2366071,11.109375 C8.98660714,20.0625 9.05357143,19.6071429 9.03348214,20.3638393 C9.03348214,21.7633929 11.7723214,21.2678571 12.8772321,18.8102679 L14.203125,13.4933036 L12.0401786,13.4933036 L12.6897321,11.109375 L17.296875,11.109375 L16.7008929,13.8214286 C19.4129464,8.765625 25.265625,10.6205357 23.5178571,16.3660714 C22.5669643,19.7879464 22.5401786,19.7611607 22.5200893,20.3035714 C22.5200893,21.3415179 23.6919643,21.8169643 24.6495536,19.171875 L25.8482143,19.6205357 C25.1450893,22.078125 23.8794643,23.1026786 22.2857143,23.1026786 Z" id="Shape"></path>
-            </g>
-            <text id="INVISION" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" letter-spacing="0.099" fill="#1A1919">
-                <tspan x="0" y="41">INVISION</tspan>
-            </text>
-        </g>
-        <g id="Group-9" transform="translate(158.000000, 724.000000)">
-            <g id="html5" transform="translate(3.000000, 0.000000)" fill="#000000" fill-rule="nonzero">
-                <path d="M0,0 L2.27213542,26.5044643 L12.4674479,30 L22.7278646,26.5044643 L25,0 L0,0 Z M20.0651042,8.56473214 L8.09895833,8.56473214 L8.36588542,11.8727679 L19.7981771,11.8727679 L18.9127604,21.8102679 L12.5390625,23.6183036 L12.5390625,23.6383929 L12.4674479,23.6383929 L6.04166667,21.8102679 L5.65104167,16.734375 L8.75651042,16.734375 L8.984375,19.2857143 L12.4674479,20.2566964 L15.9635417,19.2857143 L16.3541667,15.1205357 L5.48828125,15.1205357 L4.65494792,5.37053571 L20.3515625,5.37053571 L20.0651042,8.56473214 L20.0651042,8.56473214 Z" id="Shape"></path>
-            </g>
-            <text id="HTML5" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" letter-spacing="0.099" fill="#1A1919">
-                <tspan x="0" y="41">HTML5</tspan>
-            </text>
-        </g>
-        <g id="Group-3" transform="translate(391.000000, 724.000000)">
-            <g id="angular" transform="translate(9.000000, 0.000000)" fill="#000000" fill-rule="nonzero">
-                <path d="M11.4331088,15.8102679 L16.5668912,15.8102679 L14,9.67633929 L11.4331088,15.8102679 Z M14,0 L0,4.98214286 L2.14244466,23.4441964 L14,30 L25.8575553,23.4441964 L28,4.98214286 L14,0 Z M22.7718961,22.8883929 L19.4975938,22.8883929 L17.732435,18.5089286 L10.2810395,18.5089286 L8.51588065,22.8883929 L5.23484119,22.8883929 L14,3.31473214 L22.7718961,22.8883929 Z" id="Shape"></path>
-            </g>
-            <text id="ANGULAR" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" letter-spacing="0.099" fill="#1A1919">
-                <tspan x="0" y="41">ANGULAR</tspan>
-            </text>
-        </g>
-        <g id="Group-10" transform="translate(231.000000, 723.000000)">
-            <g id="sass" fill="#000000" fill-rule="nonzero">
-                <path d="M36.1575936,17.8181075 C34.837683,17.8176866 33.5353544,18.1159755 32.3512992,18.6899115 C31.9641072,17.9214324 31.5637901,17.2498205 31.4981643,16.7461115 C31.4194134,16.1584511 31.3340999,15.8097295 31.425976,15.1122863 C31.517852,14.4148431 31.9312943,13.4267986 31.9247318,13.3557628 C31.9181692,13.2847269 31.8328557,12.9295475 30.9862833,12.9230897 C30.139711,12.9166319 29.411265,13.0845349 29.3266078,13.3041003 C29.1770905,13.7053555 29.060773,14.1178453 28.9787912,14.5375415 C28.8278519,15.2931049 27.2863027,17.9924683 26.4134801,19.4002703 C26.1247267,18.8513567 25.8819114,18.3670211 25.8294108,17.9795527 C25.7506599,17.3918923 25.6653464,17.0431707 25.7572224,16.3457275 C25.8490985,15.6482843 26.2625408,14.6602398 26.2559782,14.5892039 C26.2494157,14.5181681 26.1641022,14.1629887 25.3181861,14.1565309 C24.47227,14.1500731 23.7431677,14.317976 23.6578542,14.5375415 C23.5725407,14.7571069 23.4806647,15.2737315 23.3100377,15.7709827 C23.1394107,16.2682338 21.0859805,20.7628676 20.5485055,21.9317307 C20.2728773,22.525849 20.0366246,23.0037267 19.8659976,23.3266171 C19.8397473,23.3782795 19.8200595,23.4105685 19.8069344,23.4363998 C19.8266221,23.4041107 19.8397473,23.3718217 19.8397473,23.3847373 C19.6953706,23.662423 19.6100571,23.8174104 19.6100571,23.8174104 L19.6100571,23.8238682 C19.4984933,24.030518 19.3738043,24.2177944 19.3147411,24.2177944 C19.2753657,24.2177944 19.1900522,23.6753386 19.3344289,22.9326908 C19.64287,21.3699015 20.3713159,18.941766 20.3647534,18.8578145 C20.3581908,18.8126098 20.5025675,18.3928524 19.8856853,18.1668291 C19.2884908,17.9537215 19.0719258,18.3089009 19.0194252,18.3089009 C18.9669246,18.3089009 18.9275491,18.438057 18.9275491,18.438057 C18.9275491,18.438057 19.5903694,15.6999468 17.6550656,15.6999468 C16.4475515,15.6999468 14.7675319,17.0044238 13.9419598,18.1862025 C13.4235163,18.4638882 12.3013157,19.0644643 11.1200519,19.7037872 C10.6672342,19.9491839 10.2012912,20.2010384 9.76159862,20.4399772 C9.72878574,20.4076882 9.70253544,20.3753992 9.66972255,20.3431101 C7.32097645,17.8762278 2.98442594,16.1326199 3.16817808,12.8197648 C3.23380384,11.6121548 3.66037131,8.44137151 11.507244,4.59251843 C17.9385689,1.44110853 23.0803475,2.30645469 23.9656391,4.23088123 C25.2387789,6.97544928 21.2165758,12.0835748 14.5378418,12.8197648 C11.9922184,13.0974505 10.654109,12.1287794 10.3194176,11.7671422 C9.97160107,11.3861316 9.91910046,11.3667582 9.78784893,11.437794 C9.57128391,11.5540346 9.70909801,11.8898405 9.78784893,12.0900326 C9.98472622,12.6001993 10.8050483,13.5042923 12.2022208,13.9563388 C13.4294226,14.3502651 16.4140824,14.5698305 20.0228431,13.1943176 C24.0772029,11.6573595 27.2331459,7.37583332 26.3078226,3.79175034 C25.3654366,0.149547092 19.2281151,-1.04514724 13.4248288,0.982604218 C9.96700727,2.19021416 6.22765121,4.08880947 3.53765113,6.56214962 C0.342332666,9.50690969 -0.168892039,12.0706591 0.0411104073,13.1426551 C0.788587863,16.9463036 6.11608741,19.4261015 8.2482685,21.2601188 C8.14326728,21.318239 8.04482863,21.3699015 7.95295256,21.4215639 C6.88390886,21.9446463 2.8223303,24.0369758 1.80578721,26.2455459 C0.657336335,28.7511751 1.99610193,30.5464455 2.87483091,30.7918421 C5.61733161,31.5409478 8.42545806,30.1912661 9.93419439,27.9762382 C11.4429307,25.7612104 11.2598348,22.8681127 10.5642017,21.5507201 C10.5576391,21.5313467 10.544514,21.518431 10.5379514,21.4990576 C10.8135796,21.3376124 11.0957704,21.1761673 11.3779612,21.0147221 C11.9219988,20.6982895 12.4535675,20.4076882 12.9195104,20.1558337 C12.6570073,20.8532769 12.4666926,21.6927918 12.368254,22.9068596 C12.2501276,24.3275772 12.8473221,26.1680522 13.6217061,26.8913266 C13.9629601,27.2077592 14.3757461,27.214217 14.6316866,27.214217 C15.5373221,27.214217 15.9442019,26.478027 16.3963634,25.5997652 C16.9541824,24.5277692 17.4463756,23.2814124 17.4463756,23.2814124 C17.4463756,23.2814124 16.8294934,26.6523877 18.5160756,26.6523877 C19.1323015,26.6523877 19.7491837,25.8709931 20.0254682,25.470609 L20.0254682,25.4770668 C20.0254682,25.4770668 20.0385933,25.4512356 20.0714062,25.3995732 C20.137032,25.302706 20.1698449,25.2445858 20.1698449,25.2445858 L20.1698449,25.2252124 C20.4192228,24.8054549 20.9639166,23.8432416 21.7835824,22.2546211 C22.8467198,20.2010384 23.8632629,17.6372889 23.8632629,17.6372889 C23.961493,18.2008639 24.0974149,18.7574449 24.2701426,19.3034032 C24.4538948,19.9168949 24.8410868,20.5885068 25.1495279,21.2407453 C24.9001499,21.5765513 24.7492107,21.7702855 24.7492107,21.7702855 C24.7496892,21.7752442 24.7520291,21.7798492 24.7557733,21.7832011 C24.558896,22.0415134 24.3357684,22.3191991 24.1060782,22.590427 C23.2667247,23.5720137 22.2685568,24.6956722 22.1373053,25.0185625 C21.9798034,25.3995732 22.0191789,25.6837167 22.3210574,25.9032821 C22.544185,26.0711851 22.9379396,26.0970163 23.3507257,26.0647273 C24.1054219,26.0130648 24.6369906,25.8322462 24.8929311,25.7160057 C25.3647667,25.5495143 25.8107182,25.3191221 26.2179153,25.0314781 C27.0382374,24.4373599 27.5369932,23.5849293 27.4910551,22.4612709 C27.4648048,21.8413214 27.261365,21.2213719 27.011987,20.6401693 C27.0841754,20.5368444 27.1629263,20.4270616 27.2351146,20.3172789 C28.5338485,18.4509726 29.5379227,16.4025562 29.5379227,16.4025562 C29.6361528,16.9661312 29.7720748,17.5227122 29.9448025,18.0686704 C30.1023043,18.5917528 30.4100891,19.1664977 30.6922799,19.7283269 C29.472297,20.7034558 28.7176007,21.833572 28.4550976,22.5762199 C27.9694669,23.9517328 28.3500964,24.5716823 29.0654172,24.713754 C29.3869835,24.7783321 29.8463638,24.6298025 30.1876178,24.4877308 C30.6944276,24.3216151 31.17229,24.0798555 31.604478,23.7709142 C32.4248001,23.1767959 33.2182156,22.3437388 33.165715,21.2136225 C33.1460272,20.7034558 33.0016506,20.193289 32.8113358,19.7024957 C33.8416603,19.2762804 35.1797697,19.0437993 36.8860396,19.2375335 C40.5400821,19.657291 41.2554029,21.9046079 41.1175888,22.84099 C40.9797747,23.777372 40.2119533,24.3004544 39.9560128,24.4554417 C39.7000723,24.6104291 39.6213214,24.6685494 39.6410091,24.7847899 C39.673822,24.9526929 39.7919484,24.9462351 40.0085134,24.9074882 C40.3103919,24.8558258 41.9241295,24.145467 41.9963178,22.4083169 C42.101319,20.2126624 39.9560128,17.7974425 36.1556248,17.816816 L36.1575936,17.8181075 Z M7.99232802,27.1625545 C6.78547021,28.4605738 5.09232549,28.9513671 4.36453576,28.5380674 C3.58358917,28.0911872 3.89203026,26.1809678 5.38107885,24.7977055 C6.2867144,23.9581906 7.45419675,23.1832537 8.22858077,22.705376 C8.40577033,22.6020511 8.66171081,22.4470637 8.97671448,22.2597873 C9.02921509,22.2274983 9.0554654,22.2145827 9.0554654,22.2145827 C9.11452859,22.1758358 9.18015435,22.1435468 9.24578012,22.1047999 C9.7898177,24.0679733 9.26546785,25.7986656 7.99232802,27.161263 L7.99232802,27.1625545 Z M16.8098057,21.2601188 C16.3898008,22.2739945 15.5045093,24.8571174 14.966378,24.7215034 C14.5069976,24.6052629 14.2248069,22.6356317 14.8745019,20.6982895 C15.2026307,19.7231606 15.8982639,18.5607554 16.3117062,18.1087089 C16.9738701,17.3789766 17.7023161,17.1464956 17.8729431,17.4370969 C18.1026333,17.8181075 17.0723088,20.6272537 16.8098057,21.2601188 Z M24.0942656,24.6827566 C23.917076,24.7731659 23.7530116,24.8312861 23.6742607,24.7860815 C23.6151975,24.7537924 23.746449,24.6310941 23.746449,24.6310941 C23.746449,24.6310941 24.6586471,23.6688808 25.0195888,23.2297499 C25.2295913,22.9714377 25.4724066,22.6679207 25.7342534,22.3321147 C25.7342534,22.3644038 25.740816,22.3966928 25.740816,22.4354397 C25.7322846,23.5913871 24.6041778,24.3727818 24.0922968,24.6827566 L24.0942656,24.6827566 Z M29.7105185,23.4234842 C29.5792669,23.3330749 29.5989547,23.0295579 30.0386473,22.0867181 C30.2092743,21.7186231 30.6023726,21.0986736 31.2855368,20.5045553 C31.3628695,20.7294519 31.4049153,20.9646336 31.4102258,21.2019985 C31.4036632,22.6550051 30.3470884,23.1974609 29.7111747,23.4234842 L29.7105185,23.4234842 Z" id="Shape"></path>
-            </g>
-            <text id="SASS" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" letter-spacing="0.099" fill="#1A1919">
-                <tspan x="8" y="42">SASS</tspan>
-            </text>
-        </g>
-        <g id="node-js" transform="translate(278.000000, 723.000000)">
-            <path d="M14.4935094,32 C14.0586392,32 13.6172784,31.8857029 13.234333,31.6698085 L9.22963295,29.3521183 C8.63249776,29.0219268 8.92457475,28.9076297 9.11929275,28.8441314 C9.91763653,28.5710884 10.0799015,28.5139399 10.9301701,28.0377022 C11.0210385,27.9869035 11.1378693,28.005953 11.2287377,28.0631015 L14.305282,29.8474055 C14.4156222,29.9109039 14.5713966,29.9109039 14.6752462,29.8474055 L26.6633841,23.07848 C26.7737243,23.0149816 26.8451209,22.8879849 26.8451209,22.7609882 L26.8451209,9.22313722 C26.8451209,9.08979065 26.7737243,8.96914376 26.6568935,8.89929557 L14.6752462,2.13671991 C14.564906,2.07322155 14.4156222,2.07322155 14.305282,2.13671991 L2.33012534,8.9056454 C2.21329454,8.96914376 2.14189794,9.09614049 2.14189794,9.22948705 L2.14189794,22.7609882 C2.14189794,22.8879849 2.21329454,23.0149816 2.33012534,23.0721302 L5.61436885,24.9262824 C7.3992838,25.7962099 8.48970457,24.7738863 8.48970457,23.738863 L8.48970457,10.3788074 C8.48970457,10.1883123 8.64547896,10.0422661 8.84019696,10.0422661 L10.3589973,10.0422661 C10.5472247,10.0422661 10.7094897,10.1883123 10.7094897,10.3788074 L10.7094897,23.7452128 C10.7094897,26.0692529 9.41136974,27.4027185 7.1591316,27.4027185 C6.46463742,27.4027185 5.91942704,27.4027185 4.40062668,26.6661375 L1.25917637,24.8945332 C0.480304387,24.4563945 0,23.6372656 0,22.7546384 L0,9.22313722 C0,8.34685981 0.480304387,7.52138109 1.25917637,7.08324239 L13.234333,0.314316897 C13.9937332,-0.104772299 14.9997762,-0.104772299 15.7526858,0.314316897 L27.7408236,7.08959222 C28.5196956,7.52773093 29,8.34685981 29,9.22948705 L29,22.7609882 C29,23.6372656 28.5196956,24.4563945 27.7408236,24.900883 L15.7526858,31.6698085 C15.3697404,31.8857029 14.9348702,32 14.4935094,32 Z M24.1709937,18.6589939 C24.1709937,16.1254093 22.4185318,15.4523266 18.7383617,14.9760889 C15.0127574,14.4935013 14.6363026,14.2458577 14.6363026,13.3949797 C14.6363026,12.6901478 14.954342,11.7503721 17.7128469,11.7503721 C20.1727842,11.7503721 21.0814682,12.2710586 21.457923,13.8966167 C21.490376,14.0490128 21.6331692,14.1633099 21.7954342,14.1633099 L23.3531782,14.1633099 C23.4505372,14.1633099 23.5414056,14.1252108 23.6063115,14.0553626 C23.6712175,13.9855144 23.7036705,13.8902669 23.6971799,13.7950193 C23.4570278,10.9947415 21.555282,9.6930251 17.7128469,9.6930251 C14.2923008,9.6930251 12.2542525,11.1026888 12.2542525,13.4711777 C12.2542525,16.0365116 14.2858102,16.7476932 17.5635631,17.065185 C21.490376,17.4398254 21.7954342,18.0049608 21.7954342,18.7605913 C21.7954342,20.0686576 20.7179946,20.6274432 18.1931513,20.6274432 C15.019248,20.6274432 14.3247538,19.8464133 14.0910922,18.3034031 C14.0651298,18.1383074 13.9223366,18.0176605 13.7470904,18.0176605 L12.1958371,18.0176605 C12.0011191,18.0176605 11.8518353,18.1700566 11.8518353,18.3542018 C11.8518353,20.3290009 12.9487466,22.6847902 18.1996419,22.6847902 C21.9901522,22.6784403 24.1709937,21.2116281 24.1709937,18.6589939 L24.1709937,18.6589939 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
-            <text id="JS" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" letter-spacing="0.099" fill="#1A1919">
-                <tspan x="9" y="42">JS</tspan>
-            </text>
-        </g>
-        <g id="Group-4" transform="translate(310.000000, 724.000000)">
-            <g id="android" transform="translate(9.000000, 0.000000)" fill="#000000" fill-rule="nonzero">
-                <path d="M3.75,11.1750328 L3.75,18.6738034 C3.75,19.6710492 2.96223958,20.4675507 1.95963542,20.4675507 C0.963541667,20.4675507 0,19.6645736 0,18.6738034 L0,11.1750328 C0,10.1972138 0.963541667,9.39423662 1.95963542,9.39423662 C2.94270833,9.39423662 3.75,10.1972138 3.75,11.1750328 Z M4.453125,21.3417598 C4.453125,22.4037618 5.3125,23.258544 6.38020833,23.258544 L7.67578125,23.258544 L7.6953125,27.2151492 C7.6953125,29.6046538 11.2890625,29.5852269 11.2890625,27.2151492 L11.2890625,23.258544 L13.7109375,23.258544 L13.7109375,27.2151492 C13.7109375,29.5917026 17.3242187,29.5981782 17.3242187,27.2151492 L17.3242187,23.258544 L18.6393229,23.258544 C19.6940104,23.258544 20.5533854,22.4037618 20.5533854,21.3417598 L20.5533854,9.72449336 L4.453125,9.72449336 L4.453125,21.3417598 Z M20.5989583,9.09635799 L4.38151042,9.09635799 C4.38151042,6.32479165 6.04817708,3.91586016 8.52213542,2.65958943 L7.27864583,0.373694764 C7.09635417,0.0563892717 7.55859375,-0.144355019 7.71484375,0.127621117 L8.97786458,2.43294265 C11.25,1.4292212 13.8606771,1.48102618 16.0286458,2.43294265 L17.2851562,0.134096739 C17.4479167,-0.144355019 17.9036458,0.062864894 17.7213542,0.380170386 L16.4778646,2.65958943 C18.9322917,3.91586016 20.5989583,6.32479165 20.5989583,9.09635799 L20.5989583,9.09635799 Z M9.48567708,5.50238762 C9.48567708,5.13327715 9.18619792,4.82244728 8.80208333,4.82244728 C8.43098958,4.82244728 8.13802083,5.13327715 8.13802083,5.50238762 C8.13802083,5.87149809 8.4375,6.18232796 8.80208333,6.18232796 C9.18619792,6.18232796 9.48567708,5.87149809 9.48567708,5.50238762 Z M16.8684896,5.50238762 C16.8684896,5.13327715 16.5690104,4.82244728 16.2044271,4.82244728 C15.8203125,4.82244728 15.5208333,5.13327715 15.5208333,5.50238762 C15.5208333,5.87149809 15.8203125,6.18232796 16.2044271,6.18232796 C16.5690104,6.18232796 16.8684896,5.87149809 16.8684896,5.50238762 Z M23.0403646,9.39423662 C22.0572917,9.39423662 21.25,10.1777869 21.25,11.1750328 L21.25,18.6738034 C21.25,19.6710492 22.0572917,20.4675507 23.0403646,20.4675507 C24.0429687,20.4675507 25,19.6645736 25,18.6738034 L25,11.1750328 C25,10.1777869 24.0364583,9.39423662 23.0403646,9.39423662 Z" id="Shape"></path>
-            </g>
-            <text id="ANDROID" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" letter-spacing="0.099" fill="#1A1919">
-                <tspan x="0" y="41">ANDROID</tspan>
-            </text>
-        </g>
-        <g id="Group-5" transform="translate(114.000000, 726.000000)">
-            <g id="adobe" transform="translate(1.000000, 0.000000)" fill="#000000" fill-rule="nonzero">
-                <path d="M18.8736979,0 L30,0 L30,25 L18.8736979,0 Z M11.1263021,0 L0,0 L0,25 L11.1263021,0 Z M15,9.25130208 L21.9986979,25 L17.2460937,25 L15.2473958,20 L10.1236979,20 L15,9.25130208 Z" id="Shape"></path>
-            </g>
-            <text id="ADOBE" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" letter-spacing="0.099" fill="#1A1919">
-                <tspan x="0" y="39">ADOBE</tspan>
-            </text>
-        </g>
-        <g id="Group-11" transform="translate(358.000000, 724.000000)">
-            <g id="app-store-ios" fill="#000000" fill-rule="nonzero">
-                <path d="M26.7857143,0 L3.21428571,0 C1.43973214,0 0,1.39174107 0,3.10714286 L0,25.8928571 C0,27.6082589 1.43973214,29 3.21428571,29 L26.7857143,29 C28.5602679,29 30,27.6082589 30,25.8928571 L30,3.10714286 C30,1.39174107 28.5602679,0 26.7857143,0 Z M8.50446429,22.8180804 C8.13616071,23.4395089 7.3125,23.6466518 6.67633929,23.290625 C6.03348214,22.9345982 5.81919643,22.1383929 6.1875,21.5234375 L7.14508929,19.9245536 C8.22321429,19.6073661 9.10714286,19.8533482 9.796875,20.6625 L8.50446429,22.8180804 Z M17.8058036,19.3290179 L5.625,19.3290179 C4.88839286,19.3290179 4.28571429,18.7464286 4.28571429,18.034375 C4.28571429,17.3223214 4.88839286,16.7397321 5.625,16.7397321 L9.04017857,16.7397321 L13.4196429,9.41205357 L12.046875,7.12053571 C11.6785714,6.49910714 11.8995536,5.709375 12.5357143,5.35334821 C13.1785714,4.99732143 13.9955357,5.2109375 14.3638393,5.82589286 L14.9598214,6.82276786 L15.5558036,5.82589286 C15.9241071,5.20446429 16.7477679,4.99732143 17.3839286,5.35334821 C18.0267857,5.709375 18.2410714,6.50558036 17.8727679,7.12053571 L12.1272321,16.7397321 L16.2857143,16.7397321 C17.6383929,16.7397321 18.3950893,18.2738839 17.8058036,19.3290179 L17.8058036,19.3290179 Z M24.375,19.3290179 L22.4330357,19.3290179 L23.7455357,21.5234375 C24.1138393,22.1448661 23.8928571,22.9345982 23.2566964,23.290625 C22.6138393,23.6466518 21.796875,23.4330357 21.4285714,22.8180804 C19.2254464,19.1348214 17.578125,16.3642857 16.4732143,14.5258929 C15.3549107,12.6486607 16.1517857,10.7714286 16.9486607,10.1370536 C17.8258929,11.6064732 19.1383929,13.8073661 20.8928571,16.7397321 L24.375,16.7397321 C25.1116071,16.7397321 25.7142857,17.3223214 25.7142857,18.034375 C25.7142857,18.7529018 25.1116071,19.3290179 24.375,19.3290179 L24.375,19.3290179 Z" id="Shape"></path>
-            </g>
-            <text id="iOS" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" letter-spacing="0.099" fill="#1A1919">
-                <tspan x="7" y="41">iOS</tspan>
-            </text>
-        </g>
-        <g id="Group-13" transform="translate(21.000000, 724.000000)">
-            <g id="sketch" transform="translate(3.000000, 0.000000)" fill="#000000" fill-rule="nonzero">
-                <path d="M1.19765325,8.428125 L0,10.0399554 L5.85879021,10.0399554 L6.3054825,1.57946429 L1.19765325,8.428125 Z M25.0730326,0.886830357 L16.7477241,0 L25.5326725,9.52857143 L25.0730326,0.886830357 L25.0730326,0.886830357 Z M6.68096298,12.0595982 L5.95589723,10.6354911 L0.058264212,10.6354911 L14.6178434,27.5758929 L6.68096298,12.0595982 Z M6.810439,10.0399554 L25.1960348,10.0399554 L19.9198867,4.31116071 L16.0097107,0.0647321429 L6.810439,10.0399554 Z M26.0570504,10.6290179 L17.3886304,27.5758929 L31.9417358,10.6354911 L26.0570504,10.6354911 L26.0570504,10.6290179 Z M26.3095286,2.39508929 L25.7009913,1.57946429 L25.7592555,2.69933036 L26.1541574,10.0399554 L32,10.0399554 L26.3095286,2.39508929 Z M6.7651224,3.98102679 L6.46732753,9.52209821 L15.2587497,0 L6.93344123,0.886830357 L6.7651224,3.98102679 Z M25.3902488,10.6290179 L6.61622496,10.6290179 L9.36111673,15.9953125 L16.0097107,29 L25.3902488,10.6290179 L25.3902488,10.6290179 Z" id="Shape"></path>
-            </g>
-            <text id="SKETCH" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" letter-spacing="0.099" fill="#1A1919">
-                <tspan x="0" y="41">SKETCH</tspan>
-            </text>
-        </g>
-        <g id="Group-6" transform="translate(525.000000, 722.000000)">
-            <g id="jira" fill="#000000" fill-rule="nonzero">
-                <path d="M31.6128447,16.0503906 C26.9089076,11.2226563 20.6821596,4.76796875 16.0298432,0 C5.35080909,10.9503906 0.382315874,16.0503906 0.382315874,16.0503906 C-0.127438625,16.575 -0.127438625,17.425 0.382315874,17.95625 C8.95135353,26.7417969 4.37001563,22.0402344 16.0298432,34 C40.5109644,8.8984375 17.0428996,32.8910156 31.6128447,17.9496094 C32.1290518,17.425 32.1290518,16.575 31.6128447,16.0503906 Z M16.0298432,22.0269531 L11.1258759,17 L16.0298432,11.9730469 L20.9338106,17 L16.0298432,22.0269531 Z" id="Shape"></path>
-            </g>
-            <text id="JIRA" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" letter-spacing="0.099" fill="#1A1919">
-                <tspan x="6" y="43">JIRA</tspan>
-            </text>
-        </g>
-        <g id="Group-14" transform="translate(481.000000, 722.000000)">
-            <g id="accessible-icon" transform="translate(6.000000, 0.000000)" fill="#000000" fill-rule="nonzero">
-                <path d="M26.9930538,16.9872215 L26.1223101,27.4332339 C25.8995617,30.1360482 21.8090914,29.7641622 22.0318398,27.1078336 L22.7068349,18.9728272 L19.9326051,19.1255661 C20.6143501,20.5002162 20.9990973,22.0408868 20.9990973,23.6745289 C20.9990973,26.4105473 19.9123552,28.9008554 18.1438681,30.7470038 L15.4911374,28.1371609 C19.399359,23.9069576 16.3753809,17.0337073 10.4961737,17.0337073 C8.7479364,17.0337073 7.15494798,17.6911486 5.96020667,18.7603209 L3.30747595,16.150478 C4.79246516,14.775828 6.68920137,13.8195497 8.80193601,13.4808678 L13.8846491,7.78968369 L11.00917,6.14275994 L7.52619528,9.19753786 C5.50121001,10.977278 2.76072993,7.96898587 4.79246516,6.18260487 L9.38243179,2.15162619 C10.043927,1.56723389 11.00917,1.47426239 11.7786644,1.91255661 C11.7786644,1.91255661 21.181346,7.28498125 21.1948459,7.29826289 C22.288338,7.96898587 22.5920858,9.68895865 21.6065929,10.791335 L17.6646216,15.2074814 L24.8263195,14.8156729 C26.0750604,14.7426239 27.094303,15.7719512 26.9930538,16.9872215 Z M22.6123356,6.76035635 C24.5090718,6.76035635 26.0480606,5.24624903 26.0480606,3.38017817 C26.0480606,1.51410732 24.5090718,0 22.6123356,0 C20.7155994,0 19.1766106,1.51410732 19.1766106,3.38017817 C19.1766106,5.24624903 20.7155994,6.76035635 22.6123356,6.76035635 Z M10.5029236,30.3153504 C5.0624632,30.3153504 1.90348616,24.2987661 4.92071423,19.949028 L2.24098371,17.3126218 C0.836993915,19.0591579 0,21.2705515 0,23.667888 C0,32.3474418 10.172176,37.0425027 16.9693766,31.8028944 L14.2896461,29.1664883 C13.209654,29.8903378 11.9069134,30.3153504 10.5029236,30.3153504 Z" id="Shape"></path>
-            </g>
-            <text id="ACCESS" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" letter-spacing="0.099" fill="#1A1919">
-                <tspan x="0" y="43">ACCESS</tspan>
-            </text>
-        </g>
-        <g id="Group-8" transform="translate(198.000000, 724.000000)">
-            <g id="css3-alt" fill="#000000" fill-rule="nonzero">
-                <path d="M0,0 L2.27213542,26.5044643 L12.5,30 L22.7278646,26.5044643 L25,0 L0,0 Z M20.3841146,5.35714286 L20.0716146,8.52455357 L12.5651042,11.8258929 L12.5455729,11.8325893 L19.8046875,11.8325893 L18.9713542,21.6495536 L12.578125,23.5714286 L6.14583333,21.6160714 L5.72916667,16.6674107 L8.91276042,16.6674107 L9.12109375,19.2321429 L12.5455729,20.1227679 L16.1067708,19.0915179 L16.3476562,14.9665179 L5.52083333,14.9330357 L5.52083333,14.9263393 L5.5078125,14.9330357 L5.2734375,11.8325893 L12.5716146,8.70535714 L12.9947917,8.52455357 L4.99348958,8.52455357 L4.61588542,5.35714286 L20.3841146,5.35714286 Z" id="Shape"></path>
-            </g>
-            <text id="CSS3" font-family="Arial-BoldMT, Arial" font-size="9" font-weight="bold" letter-spacing="0.099" fill="#1A1919">
-                <tspan x="0" y="41">CSS3</tspan>
-            </text>
+        <g id="line_medium" transform="translate(21.000000, 582.000000)" fill="#1A1919">
+            <polygon id="Fill-1" points="570.589 4.585 0 4.042 0 0 570.589 0.543"></polygon>
         </g>
     </g>
 </svg>

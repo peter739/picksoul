@@ -50,17 +50,13 @@
         <g id="Line_Thicke" transform="translate(21.000000, 75.000000)" fill="#1A1919">
             <polygon id="Fill-78" points="571.255 8.274 0 7.731 0 0 571.255 0.543"></polygon>
         </g>
-        <g id="line_medium" transform="translate(21.000000, 110.000000)" fill="#1A1919">
+        <g id="line_medium" transform="translate(21.000000, 104.000000)" fill="#1A1919">
             <polygon id="Fill-1" points="570.589 4.585 0 4.042 0 0 570.589 0.543"></polygon>
         </g>
-        <g id="line_medium" transform="translate(21.000000, 187.000000)" fill="#1A1919">
-            <polygon id="Fill-1" points="570.589 4.585 0 4.042 0 0 570.589 0.543"></polygon>
-        </g>
-        <g id="Line_Thin" transform="translate(22.000000, 391.000000)" stroke="#1A1919" stroke-width="0.746">
-            <path d="M0,0.2285 L567.838,0.7715" id="Stroke-91"></path>
-        </g>
-        <g id="Line_Thin" transform="translate(22.000000, 574.000000)" stroke="#1A1919" stroke-width="0.746">
-            <path d="M0,0.2285 L567.838,0.7715" id="Stroke-91"></path>
+        <g id="line_medium" transform="translate(21.000000, 184.000000)" fill="#1A1919">
+            <g id="Fill-1">
+                <polygon points="570.589 4.585 0 4.042 0 0 570.589 0.543"></polygon>
+            </g>
         </g>
         <text id="Nutritional-Objectiv" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
             <tspan x="22" y="99.0613976">Nutritional  Objective</tspan>
@@ -68,37 +64,40 @@
         <text id="Professional-Ingredi" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
             <tspan x="22" y="177.061398">Professional Ingredients</tspan>
         </text>
+        <g id="Line_Thicke" transform="translate(21.999900, 153.716700)" fill="#1A1919">
+            <polygon id="Fill-78" points="571.255 8.274 0 7.731 0 0 571.255 0.543"></polygon>
+        </g>
         <text id="CYBERGRX-|-SENIOR-PR" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="22.585" y="211.061398">CYBERGRX | SENIOR PRODUCT DESIGNER | DENVER, CO | MAY, 2019 - AUG, 2019</tspan>
+            <tspan x="22.585" y="209.061398">CYBERGRX | SENIOR PRODUCT DESIGNER | DENVER, CO | MAY, 2019 - AUG, 2019</tspan>
         </text>
         <text id="As-a-Senior-UX-&amp;-Pro" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="23" y="232">As a Senior UX &amp; Product Designer at CyberGRX, my day-to-day duties include: </tspan>
+            <tspan x="23" y="230">As a Senior UX &amp; Product Designer at CyberGRX, my day-to-day duties include: </tspan>
         </text>
         <text id="•-User-Research-•-De" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="20" y="259">	•	User Research </tspan>
-            <tspan x="20" y="279">	•	Design-System Management (DSM)</tspan>
-            <tspan x="20" y="299">	•	UI &amp; Application Architecture </tspan>
-            <tspan x="20" y="319">	•	Improving Accessibility </tspan>
-            <tspan x="20" y="339">	•	Segments Implementation</tspan>
-            <tspan x="20" y="359">	•	Data Analysis &amp; Visualizations</tspan>
-            <tspan x="20" y="379">	•	Usability-Testing </tspan>
+            <tspan x="20" y="247">	•	User Research </tspan>
+            <tspan x="20" y="267">	•	Design-System Management (DSM)</tspan>
+            <tspan x="20" y="287">	•	UI &amp; Application Architecture </tspan>
+            <tspan x="20" y="307">	•	Improving Accessibility </tspan>
+            <tspan x="20" y="327">	•	Segments Implementation</tspan>
+            <tspan x="20" y="347">	•	Data Analysis &amp; Visualizations</tspan>
+            <tspan x="20" y="367">	•	Usability-Testing </tspan>
         </text>
         <text id="•-Creating-&amp;-Evolvin" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="313" y="259">	•	Creating &amp; Evolving Product Roadmaps</tspan>
-            <tspan x="313" y="279">	•	Wireframing, Prototyping &amp; Iterating</tspan>
-            <tspan x="313" y="299">	•	Collaborating, Hiring, Leading &amp; Mentoring</tspan>
-            <tspan x="313" y="319">	•	Sketch, Abstract, Invision, DSM, Zepplin </tspan>
-            <tspan x="313" y="339">	•	Storybook with React</tspan>
-            <tspan x="313" y="359">	•	HTML/CSS/Node/Webpack/GraphQL/Git</tspan>
-            <tspan x="313" y="379">	•	Whiteboards, Sticky-Notes &amp; Index Cards </tspan>
+            <tspan x="313" y="247">	•	Creating &amp; Evolving Product Roadmaps</tspan>
+            <tspan x="313" y="267">	•	Wireframing, Prototyping &amp; Iterating</tspan>
+            <tspan x="313" y="287">	•	Collaborating, Hiring, Leading &amp; Mentoring</tspan>
+            <tspan x="313" y="307">	•	Sketch, Abstract, Invision, DSM, Zepplin </tspan>
+            <tspan x="313" y="327">	•	Storybook with React</tspan>
+            <tspan x="313" y="347">	•	HTML/CSS/Node/Webpack/GraphQL/Git</tspan>
+            <tspan x="313" y="367">	•	Whiteboards, Sticky-Notes &amp; Index Cards </tspan>
         </text>
         <text id="PICKSOUL-|-SENIOR-UX" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="23" y="414.061398">PICKSOUL | SENIOR UX ENGINEER | DENVER, CO | AUG, 2015 - NOW</tspan>
+            <tspan x="23" y="419.061398">PICKSOUL | SENIOR UX ENGINEER | DENVER, CO | AUG, 2015 - NOW</tspan>
         </text>
         <text id="As-a-contract-UX-Eng" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="23" y="433.979866">As a contract UX Engineer, my day-to-day responsibilities include user-oriented research, planning, </tspan>
-            <tspan x="23" y="454.372444">usability and accessibility testing, functional-prototyping, UI &amp; Product design, front-end development, </tspan>
-            <tspan x="23" y="474.765022">then  leverage the resulting designs, data and code into user-friendly, multi-platform applications using:</tspan>
+            <tspan x="23" y="438.979866">As a contract UX Engineer, my day-to-day responsibilities include user-oriented research, planning, </tspan>
+            <tspan x="23" y="459.372444">usability and accessibility testing, functional-prototyping, UI &amp; Product design, front-end development, </tspan>
+            <tspan x="23" y="479.765022">then  leverage the resulting designs, data and code into user-friendly, multi-platform applications using:</tspan>
         </text>
         <g id="resume_name" transform="translate(102.000000, 20.050280)" fill="#DA302A" font-family="Arial-BoldMT, Arial" font-size="17" font-weight="bold" letter-spacing="2.55">
             <text id="PETER-BIRLEM-">
@@ -132,49 +131,55 @@
                 <tspan x="156" y="13">Peter739  </tspan>
             </text>
         </g>
-        <g id="nutritional_objective" transform="translate(23.000000, 118.000000)" fill="#1A1919" font-family="ArialMT, Arial" font-size="12" font-weight="normal" letter-spacing="0.168" line-spacing="20">
+        <g id="nutritional_objective" transform="translate(23.000000, 110.000000)" fill="#1A1919" font-family="ArialMT, Arial" font-size="12" font-weight="normal" letter-spacing="0.168" line-spacing="20">
             <text id="Seeking-to-collabora">
                 <tspan x="0" y="11">Seeking to collaborate with a solid team at a progressive company, where my expertise in UX, product </tspan>
                 <tspan x="0" y="31">design and front-end development, can be leveraged, improved &amp; shared with a top-shelf-team.</tspan>
             </text>
         </g>
         <text id="•-Setch,-Invision,-D" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="20" y="501">	•	Sketch, Invision, DSM, Zeppelin</tspan>
-            <tspan x="20" y="521">	•	HTML, CSS(SASS), Ionic, React</tspan>
-            <tspan x="20" y="541">	•	GraphQL, Apollo, Node, Webpack, Git… </tspan>
-            <tspan x="20" y="561">	•	Android Studio, Visual CS, Atom, Xcode</tspan>
+            <tspan x="20" y="498">	•	Sketch, Invision, DSM, Zeppelin</tspan>
+            <tspan x="20" y="518">	•	HTML, CSS(SASS), Ionic, React</tspan>
+            <tspan x="20" y="538">	•	GraphQL, Apollo, Node, Webpack, Git… </tspan>
+            <tspan x="20" y="558">	•	Android Studio, Visual CS, Atom, Xcode</tspan>
         </text>
         <text id="•-Creating-&amp;-Evolvin" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="312" y="501">	•	Creating &amp; Evolving Product Roadmaps</tspan>
-            <tspan x="312" y="521">	•	Wireframing, Prototyping &amp; Iterating</tspan>
-            <tspan x="312" y="541">	•	Agile &amp; Lean Product Development</tspan>
-            <tspan x="312" y="561">	•	Project Management &amp; Customer Success</tspan>
+            <tspan x="312" y="498">	•	Creating &amp; Evolving Product Roadmaps</tspan>
+            <tspan x="312" y="518">	•	Wireframing, Prototyping &amp; Iterating</tspan>
+            <tspan x="312" y="538">	•	Agile &amp; Lean Product Development</tspan>
+            <tspan x="312" y="558">	•	Project Management &amp; Customer Success</tspan>
         </text>
         <text id="TOWERS-WATSON-|-SENI" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="0.154" fill="#1A1919">
-            <tspan x="23" y="596.061398">TOWERS WATSON | SENIOR UX ENGINEER | DENVER, CO | MAY, 2015 - JUL, 2015</tspan>
+            <tspan x="23" y="606.061398">TOWERS WATSON | SENIOR UX ENGINEER | DENVER, CO | MAY, 2015 - JUL, 2015</tspan>
         </text>
         <text id="My-role-as-Senior-UX" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="23" y="618.289963">My role as Senior UX Engineer, focused on research &amp; design; including user-journeys, usability </tspan>
-            <tspan x="23" y="638.682541">testing, accessibility, competitive analysis, in order to  leverage resulting data and design, into new </tspan>
-            <tspan x="23" y="659.075119">features, as well as iterate existing ones across the SaaS platform.</tspan>
+            <tspan x="23" y="628.289963">My role as Senior UX Engineer, focused on research &amp; design; including user-journeys, usability </tspan>
+            <tspan x="23" y="648.682541">testing, accessibility, competitive analysis, in order to  leverage resulting data and design, into new </tspan>
+            <tspan x="23" y="669.075119">features, as well as iterate existing ones across the SaaS platform.</tspan>
         </text>
         <text id="•-Sketch,-Invision," font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="20" y="684">	•	Sketch, Invision, Axure, Zeppelin</tspan>
-            <tspan x="20" y="704">	•	AdobeCS: Illustrator, Photoshop, InDesign</tspan>
-            <tspan x="20" y="724">	•	Google Analytics and Data-Analysis</tspan>
-            <tspan x="20" y="744">	•	Lo/Hi-Fi Wireframing &amp; Prototyping</tspan>
-            <tspan x="20" y="764">	•	Whiteboards, Sticky-Notes &amp; Index Cards </tspan>
-            <tspan x="280.085938" y="764"></tspan>
+            <tspan x="20" y="686">	•	Sketch, Invision, Axure, Zeppelin</tspan>
+            <tspan x="20" y="706">	•	AdobeCS: Illustrator, Photoshop, InDesign</tspan>
+            <tspan x="20" y="726">	•	Google Analytics and Data-Analysis</tspan>
+            <tspan x="20" y="746">	•	Lo/Hi-Fi Wireframing &amp; Prototyping</tspan>
+            <tspan x="20" y="766">	•	Whiteboards, Sticky-Notes &amp; Index Cards </tspan>
+            <tspan x="280.085938" y="766"></tspan>
         </text>
         <text id="•-Creating-&amp;-Evolvin" font-family="ArialMT, Arial" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="0.168" fill="#1A1919">
-            <tspan x="310" y="684">	•	Creating &amp; Evolving Product Roadmaps</tspan>
-            <tspan x="310" y="704">	•	Lo-Fi/Hi-Fi Wireframing &amp; Prototyping</tspan>
-            <tspan x="310" y="724">	•	</tspan>
-            <tspan x="346" y="724">Agile &amp; Lean Product Development</tspan>
-            <tspan x="310" y="744">	•	User-Journeys &amp; Usability-Testing</tspan>
-            <tspan x="310" y="764">	•	Collaborating, Hiring, Managing &amp; Mentoring</tspan>
-            <tspan x="310" y="784"></tspan>
+            <tspan x="310" y="686">	•	Creating &amp; Evolving Product Roadmaps</tspan>
+            <tspan x="310" y="706">	•	Lo-Fi/Hi-Fi Wireframing &amp; Prototyping</tspan>
+            <tspan x="310" y="726">	•	</tspan>
+            <tspan x="346" y="726">Agile &amp; Lean Product Development</tspan>
+            <tspan x="310" y="746">	•	User-Journeys &amp; Usability-Testing</tspan>
+            <tspan x="310" y="766">	•	Collaborating, Hiring, Managing &amp; Mentoring</tspan>
+            <tspan x="310" y="786"></tspan>
         </text>
         <polygon id="Fill-5" fill="#000000" points="211 56.6666667 221.000476 57.9993333 211 59.3333333 211.007334 64 225 57.9993333 211.007334 52"></polygon>
+        <g id="line_medium" transform="translate(21.000000, 387.000000)" fill="#1A1919">
+            <polygon id="Fill-1" points="570.589 4.585 0 4.042 0 0 570.589 0.543"></polygon>
+        </g>
+        <g id="line_medium" transform="translate(21.000000, 577.000000)" fill="#1A1919">
+            <polygon id="Fill-1" points="570.589 4.585 0 4.042 0 0 570.589 0.543"></polygon>
+        </g>
     </g>
 </svg>

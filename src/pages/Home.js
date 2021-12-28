@@ -4,10 +4,10 @@ import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
 import Row from 'react-bootstrap/Row';
-import Image from 'react-bootstrap/Image';
 import Picksoul_cereal from '../images/home_img/cereal.png';
 import '../picksoul_custom.scss';
 import Home_heart_and_banner from '../images/home_img/home_heart_and_banner.svg';
+import footer_1 from '../images/home_img/footer_1.svg';
 
 const Home = () => {
   return (
@@ -39,6 +39,13 @@ const Home = () => {
             </Col>
             <Col xs={12} md={4}>
               xs=12  md=4
+            </Col>
+          </Row>
+          <Row>
+            <Col xs={12} md={12}>
+                <div>
+                <img class='footer_1 img' src={footer_1} alt='footer_1'/>
+              </div>
             </Col>
           </Row>
         </Container>
