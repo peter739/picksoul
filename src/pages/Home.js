@@ -7,7 +7,7 @@ import Row from 'react-bootstrap/Row';
 import Picksoul_cereal from '../images/home_img/cereal.png';
 import '../picksoul_custom.scss';
 import Home_heart_and_banner from '../images/home_img/home_heart_and_banner.svg';
-import footer_1 from '../images/home_img/footer_1.svg';
+
 
 const Home = () => {
   return (
@@ -43,9 +43,6 @@ const Home = () => {
           </Row>
           <Row>
             <Col xs={12} md={12}>
-                <div>
-                <img class='footer_1 img' src={footer_1} alt='footer_1'/>
-              </div>
             </Col>
           </Row>
         </Container>

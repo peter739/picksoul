@@ -10,6 +10,8 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import React, { Component } from 'react';
 import Spinner from 'react-bootstrap/Spinner';
+import Footer from './components/footer/Footer';
+
 class App extends Component {
   state = {
     navbarOpen: false
@@ -36,9 +38,8 @@ class App extends Component {
   </Nav>
 </Navbar.Collapse>
 </Navbar>
-
-
-        <Routes />
+    <Routes />
+<Footer/>
       </div>
     </Router>
   )
