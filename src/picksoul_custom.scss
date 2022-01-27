@@ -287,7 +287,7 @@ $ps_yellow: #FFFF01;
 }
 
 .ps_title_text {
-  margin-bottom: 16px;
+  margin-bottom: 0px;
   font-size: 1em;
   color: #ee2f24;
   text-align: center;
@@ -399,7 +399,6 @@ $ps_yellow: #FFFF01;
 }
 
 .ps_title_text {
-  margin-bottom: 1em;
   font-size: 1.5em;
   color: yellow;
   text-align: center;
@@ -1232,6 +1231,9 @@ height: auto;
     background: $ps_yellow!important;
     border-color: transparent!important;
 }
+
+
+
 
 
 @import '~bootstrap/scss/bootstrap.scss';

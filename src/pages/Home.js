@@ -1,4 +1,5 @@
 import React from 'react';
+import styled from 'styled-components';
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
@@ -7,7 +8,6 @@ import Row from 'react-bootstrap/Row';
 import Picksoul_cereal from '../images/home_img/cereal.png';
 import '../picksoul_custom.scss';
 import Home_heart_and_banner from '../images/home_img/home_heart_and_banner.svg';
-
 
 const Home = () => {
   return (
@@ -21,28 +21,13 @@ const Home = () => {
             <Col xs={12} >
               <div class="ps_title_text">Product Design & Development</div>
             </Col>
-          </Row>
-          <Row>
+
+
             <img class='img' src={Picksoul_cereal} alt='Picksoul Cereal' />
             <Col xs={12} md={12}>
                 <div class='heart'>
                 <img class='heart img' src={Home_heart_and_banner} alt='Home_heart_and_banner'/>
               </div>
-            </Col>
-          </Row>
-          <Row>
-            <Col xs={12} md={4}>
-              xs=6 md=4
-            </Col>
-            <Col xs={12} md={4}>
-              xs=6 md=4
-            </Col>
-            <Col xs={12} md={4}>
-              xs=12  md=4
-            </Col>
-          </Row>
-          <Row>
-            <Col xs={12} md={12}>
             </Col>
           </Row>
         </Container>
