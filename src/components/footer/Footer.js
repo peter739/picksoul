@@ -2,6 +2,7 @@ import React from "react";
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import footer_1 from '../../images/home_img/footer_1.svg';
+
 import {
   Box,
   Container,
@@ -48,14 +49,12 @@ const Footer = () => {
           <ul>
             <Heading>Contact</Heading>
               <li><FooterLink href="/About">About</FooterLink></li>
-              <li><FooterLink href="/Contact">Contact</FooterLink></li>
+              <li><FooterLink href="/casestudies">Case Studies</FooterLink></li>
               <li><FooterLink href="/Contact">Contact</FooterLink></li>
           </ul>
           </Col>
           <img class='footer_1 img' src={footer_1} alt='footer_1'/>
       </Row>
-
-
   </Container>
   );
 };
