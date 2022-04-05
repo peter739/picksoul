@@ -11,10 +11,9 @@ const Contact = () => {
   return (
     <section>
     <Jumbotron>
-<h1>Hello, world!</h1>
+<h1>Give Me A Holler!</h1>
 <p>
-  This is a simple hero unit, a simple jumbotron-style component for calling
-  extra attention to featured content or information.
+  Whether it's an old-fashioned phone call, visit from a carrier pigeon, smoke signal, email or whaterver your favorite form of communication may be, I'm here to help!
 </p>
 <p>
   <Button variant="primary">Learn more</Button>
