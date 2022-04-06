@@ -30,10 +30,6 @@ const Contact = () => {
 </Row>
     </section>
 
-
-
-
-
   );
 };
 
